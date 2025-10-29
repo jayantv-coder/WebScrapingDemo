@@ -2,7 +2,7 @@ name: Scrape and Publish IPOWatch Data
 
 on:
   schedule:
-    - cron: "*/10 * * * *"   # runs every 10 minutes
+    - cron: "*/30 * * * *"   # runs every 10 minutes
   workflow_dispatch:          # allows manual trigger from GitHub UI
 permissions:
   contents: write
