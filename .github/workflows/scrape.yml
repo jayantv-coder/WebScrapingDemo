@@ -4,7 +4,9 @@ on:
   schedule:
     - cron: "*/10 * * * *"   # runs every 10 minutes
   workflow_dispatch:          # allows manual trigger from GitHub UI
-
+permissions:
+  contents: write
+  
 jobs:
   scrape:
     runs-on: ubuntu-latest
