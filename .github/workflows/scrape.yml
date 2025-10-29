@@ -1,0 +1,34 @@
+name: Scrape and Publish IPOWatch Data
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # runs every 10 minutes
+  workflow_dispatch:          # allows manual trigger from GitHub UI
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run scraper
+        run: python scrape_gmp.py
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add gmp.json
+          git commit -m "update gmp data" || echo "No changes to commit"
+          git push
+
