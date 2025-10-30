@@ -1,30 +1,36 @@
 {
-  "last_updated": "2025-10-30T03:29:21.365342",
+  "last_updated": "2025-10-30T03:53:05.661047",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
       "ipo_name": "Orkla India",
-      "gmp": "₹105",
+      "gmp": "₹68",
       "price_band": "₹730",
-      "listing_gain": "14.38%"
+      "listing_gain": "9.32%"
     },
     {
       "ipo_name": "Studds Accessories",
-      "gmp": "₹55",
+      "gmp": "₹53",
       "price_band": "₹585",
-      "listing_gain": "9.40%"
+      "listing_gain": "9.06%"
     },
     {
       "ipo_name": "Lenskart Solutions",
-      "gmp": "₹80",
+      "gmp": "₹48",
       "price_band": "₹402",
-      "listing_gain": "19.90%"
+      "listing_gain": "11.94%"
+    },
+    {
+      "ipo_name": "Groww",
+      "gmp": "₹11",
+      "price_band": "₹100",
+      "listing_gain": "11%"
     },
     {
       "ipo_name": "Jayesh Logistics",
-      "gmp": "₹5",
+      "gmp": "₹9",
       "price_band": "₹122",
-      "listing_gain": "4.10%"
+      "listing_gain": "7.38%"
     },
     {
       "ipo_name": "Game Changers Texfab",
@@ -42,6 +48,12 @@
       "ipo_name": "Shreeji Global FMCG",
       "gmp": "₹-",
       "price_band": "₹125",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "Finbud Financial",
+      "gmp": "₹-",
+      "price_band": "₹142",
       "listing_gain": "-%"
     },
     {
