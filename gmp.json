@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-31T11:01:28.570193",
+  "last_updated": "2025-10-31T11:31:34.001572",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
@@ -25,6 +25,12 @@
       "gmp": "₹15",
       "price_band": "₹100",
       "listing_gain": "15%"
+    },
+    {
+      "ipo_name": "Pine Labs",
+      "gmp": "₹-",
+      "price_band": "₹-",
+      "listing_gain": "-%"
     },
     {
       "ipo_name": "Jayesh Logistics",
