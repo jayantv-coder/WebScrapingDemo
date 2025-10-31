@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-31T04:42:15.416035",
+  "last_updated": "2025-10-31T05:09:50.069847",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
@@ -54,6 +54,12 @@
       "ipo_name": "Finbud Financial",
       "gmp": "₹-",
       "price_band": "₹142",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "Curis Lifesciences",
+      "gmp": "₹-",
+      "price_band": "₹128",
       "listing_gain": "-%"
     },
     {
