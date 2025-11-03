@@ -1,12 +1,12 @@
 {
-  "last_updated": "2025-11-03T02:28:35.090128",
+  "last_updated": "2025-11-03T03:37:01.968787",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
       "ipo_name": "Orkla India",
-      "gmp": "₹92",
+      "gmp": "₹96",
       "price_band": "₹730",
-      "listing_gain": "12.60%"
+      "listing_gain": "13.15%"
     },
     {
       "ipo_name": "Studds Accessories",
@@ -16,19 +16,25 @@
     },
     {
       "ipo_name": "Lenskart Solutions",
-      "gmp": "₹94",
+      "gmp": "₹85",
       "price_band": "₹402",
-      "listing_gain": "23.38%"
+      "listing_gain": "21.14%"
     },
     {
       "ipo_name": "Groww",
-      "gmp": "₹15",
+      "gmp": "₹17",
       "price_band": "₹100",
-      "listing_gain": "15%"
+      "listing_gain": "17%"
     },
     {
       "ipo_name": "Pine Labs",
       "gmp": "₹60",
+      "price_band": "₹221",
+      "listing_gain": "27.14%"
+    },
+    {
+      "ipo_name": "Tenneco Clean Air",
+      "gmp": "₹-",
       "price_band": "₹-",
       "listing_gain": "-%"
     },
@@ -66,6 +72,12 @@
       "ipo_name": "Curis Lifesciences",
       "gmp": "₹-",
       "price_band": "₹128",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "Shining Tools",
+      "gmp": "₹-",
+      "price_band": "₹114",
       "listing_gain": "-%"
     },
     {
