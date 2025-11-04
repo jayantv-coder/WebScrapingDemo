@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-04T08:12:54.473990",
+  "last_updated": "2025-11-04T08:46:04.361064",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
@@ -31,6 +31,12 @@
       "gmp": "₹35",
       "price_band": "₹221",
       "listing_gain": "15.83%"
+    },
+    {
+      "ipo_name": "PhysicsWallah",
+      "gmp": "₹-",
+      "price_band": "₹-",
+      "listing_gain": "-%"
     },
     {
       "ipo_name": "Tenneco Clean Air",
@@ -69,13 +75,13 @@
       "listing_gain": "-%"
     },
     {
-      "ipo_name": "Mahamaya Lifesciences",
+      "ipo_name": "Shining Tools",
       "gmp": "₹-",
       "price_band": "₹114",
       "listing_gain": "-%"
     },
     {
-      "ipo_name": "Shining Tools",
+      "ipo_name": "Mahamaya Lifesciences",
       "gmp": "₹-",
       "price_band": "₹114",
       "listing_gain": "-%"
