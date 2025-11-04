@@ -1,48 +1,42 @@
 {
-  "last_updated": "2025-11-04T02:23:36.429146",
+  "last_updated": "2025-11-04T03:28:39.193182",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
       "ipo_name": "Orkla India",
-      "gmp": "₹80",
+      "gmp": "₹70",
       "price_band": "₹730",
-      "listing_gain": "10.96%"
+      "listing_gain": "9.58%"
     },
     {
       "ipo_name": "Studds Accessories",
-      "gmp": "₹65",
+      "gmp": "₹68",
       "price_band": "₹585",
-      "listing_gain": "11.11%"
+      "listing_gain": "11.62%"
     },
     {
       "ipo_name": "Lenskart Solutions",
-      "gmp": "₹70",
+      "gmp": "₹58",
       "price_band": "₹402",
-      "listing_gain": "17.41%"
+      "listing_gain": "14.42%"
     },
     {
       "ipo_name": "Groww",
-      "gmp": "₹15",
+      "gmp": "₹16",
       "price_band": "₹100",
-      "listing_gain": "15.00%"
+      "listing_gain": "16.00%"
     },
     {
       "ipo_name": "Pine Labs",
-      "gmp": "₹40",
+      "gmp": "₹35",
       "price_band": "₹221",
-      "listing_gain": "18.10%"
+      "listing_gain": "15.83%"
     },
     {
       "ipo_name": "Tenneco Clean Air",
       "gmp": "₹-",
       "price_band": "₹-",
       "listing_gain": "-%"
-    },
-    {
-      "ipo_name": "Jayesh Logistics",
-      "gmp": "₹9",
-      "price_band": "₹122",
-      "listing_gain": "7.38%"
     },
     {
       "ipo_name": "Game Changers Texfab",
@@ -75,6 +69,12 @@
       "listing_gain": "-%"
     },
     {
+      "ipo_name": "Mahamaya Lifesciences",
+      "gmp": "₹-",
+      "price_band": "₹114",
+      "listing_gain": "-%"
+    },
+    {
       "ipo_name": "Shining Tools",
       "gmp": "₹-",
       "price_band": "₹114",
@@ -90,12 +90,6 @@
       "ipo_name": "Riddhi Display",
       "gmp": "₹-",
       "price_band": "₹100",
-      "listing_gain": "-%"
-    },
-    {
-      "ipo_name": "Mahamaya Lifesciences",
-      "gmp": "₹-",
-      "price_band": "₹-",
       "listing_gain": "-%"
     }
   ]
