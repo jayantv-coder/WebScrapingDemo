@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-05T08:12:59.009301",
+  "last_updated": "2025-11-05T08:45:45.711346",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
@@ -34,6 +34,12 @@
     },
     {
       "ipo_name": "PhysicsWallah",
+      "gmp": "₹-",
+      "price_band": "₹-",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "Emmvee Photovoltaic",
       "gmp": "₹-",
       "price_band": "₹-",
       "listing_gain": "-%"
@@ -78,6 +84,12 @@
       "ipo_name": "Mahamaya Lifesciences",
       "gmp": "₹-",
       "price_band": "₹114",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "Workmates Core2Cloud",
+      "gmp": "₹-",
+      "price_band": "₹-",
       "listing_gain": "-%"
     },
     {
