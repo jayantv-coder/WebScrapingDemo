@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-07T15:38:47.430741",
+  "last_updated": "2025-11-07T16:09:02.783843",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
@@ -43,6 +43,18 @@
       "gmp": "₹85",
       "price_band": "₹397",
       "listing_gain": "21.41%"
+    },
+    {
+      "ipo_name": "Fujiyama Power",
+      "gmp": "₹-",
+      "price_band": "₹-",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "Vidya Wires",
+      "gmp": "₹-",
+      "price_band": "₹-",
+      "listing_gain": "-%"
     },
     {
       "ipo_name": "Shreeji Global FMCG",
