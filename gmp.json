@@ -1,42 +1,36 @@
 {
-  "last_updated": "2025-11-07T02:23:51.618935",
+  "last_updated": "2025-11-07T03:29:24.906840",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
-      "ipo_name": "Orkla India",
-      "gmp": "₹65",
-      "price_band": "₹730",
-      "listing_gain": "8.90%"
-    },
-    {
       "ipo_name": "Studds Accessories",
-      "gmp": "₹62",
+      "gmp": "₹50",
       "price_band": "₹585",
-      "listing_gain": "10.59%"
+      "listing_gain": "8.54%"
     },
     {
       "ipo_name": "Lenskart Solutions",
-      "gmp": "₹44",
+      "gmp": "₹25",
       "price_band": "₹402",
-      "listing_gain": "10.94%"
+      "listing_gain": "6.21%"
     },
     {
       "ipo_name": "Groww",
-      "gmp": "₹14",
+      "gmp": "₹11",
       "price_band": "₹100",
-      "listing_gain": "14.00%"
+      "listing_gain": "11.00%"
     },
     {
       "ipo_name": "Pine Labs",
-      "gmp": "₹18",
+      "gmp": "₹12",
       "price_band": "₹221",
-      "listing_gain": "8.14%"
+      "listing_gain": "5.42%"
     },
     {
       "ipo_name": "PhysicsWallah",
-      "gmp": "₹9",
+      "gmp": "₹5",
       "price_band": "₹109",
-      "listing_gain": "8.25%"
+      "listing_gain": "4.58%"
     },
     {
       "ipo_name": "Emmvee Photovoltaic",
@@ -46,15 +40,9 @@
     },
     {
       "ipo_name": "Tenneco Clean Air",
-      "gmp": "₹100",
-      "price_band": "₹-",
-      "listing_gain": "-%"
-    },
-    {
-      "ipo_name": "Safecure Services",
-      "gmp": "₹-",
-      "price_band": "₹102",
-      "listing_gain": "-%"
+      "gmp": "₹96",
+      "price_band": "₹397",
+      "listing_gain": "24.18%"
     },
     {
       "ipo_name": "Shreeji Global FMCG",
@@ -70,15 +58,15 @@
     },
     {
       "ipo_name": "Curis Lifesciences",
-      "gmp": "₹6",
+      "gmp": "₹7",
       "price_band": "₹128",
-      "listing_gain": "4.68%"
+      "listing_gain": "5.46%"
     },
     {
       "ipo_name": "Shining Tools",
-      "gmp": "₹-",
+      "gmp": "₹15",
       "price_band": "₹114",
-      "listing_gain": "-%"
+      "listing_gain": "13.15%"
     },
     {
       "ipo_name": "Mahamaya Lifesciences",
