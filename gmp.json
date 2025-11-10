@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-10T02:29:32.006096",
+  "last_updated": "2025-11-10T03:37:53.961988",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
@@ -16,15 +16,15 @@
     },
     {
       "ipo_name": "Pine Labs",
-      "gmp": "₹5",
+      "gmp": "₹4",
       "price_band": "₹221",
-      "listing_gain": "2.26%"
+      "listing_gain": "1.80%"
     },
     {
       "ipo_name": "PhysicsWallah",
-      "gmp": "₹5",
+      "gmp": "₹4",
       "price_band": "₹109",
-      "listing_gain": "4.58%"
+      "listing_gain": "3.66%"
     },
     {
       "ipo_name": "Emmvee Photovoltaic",
@@ -34,12 +34,18 @@
     },
     {
       "ipo_name": "Tenneco Clean Air",
-      "gmp": "₹87",
+      "gmp": "₹67",
       "price_band": "₹397",
-      "listing_gain": "21.91%"
+      "listing_gain": "16.87%"
     },
     {
       "ipo_name": "Fujiyama Power",
+      "gmp": "₹-",
+      "price_band": "₹228",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "Capillary Technologies",
       "gmp": "₹-",
       "price_band": "₹-",
       "listing_gain": "-%"
@@ -70,15 +76,15 @@
     },
     {
       "ipo_name": "Curis Lifesciences",
-      "gmp": "₹7",
+      "gmp": "₹8",
       "price_band": "₹128",
-      "listing_gain": "5.46%"
+      "listing_gain": "6.25%"
     },
     {
       "ipo_name": "Shining Tools",
-      "gmp": "₹7",
+      "gmp": "₹2",
       "price_band": "₹114",
-      "listing_gain": "6.14%"
+      "listing_gain": "1.75%"
     },
     {
       "ipo_name": "Mahamaya Lifesciences",
@@ -88,9 +94,9 @@
     },
     {
       "ipo_name": "Workmates Core2Cloud",
-      "gmp": "₹20",
+      "gmp": "₹25",
       "price_band": "₹204",
-      "listing_gain": "9.80%"
+      "listing_gain": "12.25%"
     },
     {
       "ipo_name": "Shipwaves Online",
