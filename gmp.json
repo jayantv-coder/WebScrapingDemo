@@ -1,24 +1,18 @@
 {
-  "last_updated": "2025-11-11T02:25:46.802277",
+  "last_updated": "2025-11-11T03:32:10.879140",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
-      "ipo_name": "Lenskart Solutions",
-      "gmp": "₹15",
-      "price_band": "₹402",
-      "listing_gain": "3.73%"
-    },
-    {
       "ipo_name": "Groww",
-      "gmp": "₹5",
+      "gmp": "₹3",
       "price_band": "₹100",
-      "listing_gain": "5.00%"
+      "listing_gain": "3.00%"
     },
     {
       "ipo_name": "Pine Labs",
-      "gmp": "₹4",
+      "gmp": "₹-",
       "price_band": "₹221",
-      "listing_gain": "1.80%"
+      "listing_gain": "-%"
     },
     {
       "ipo_name": "PhysicsWallah",
@@ -34,9 +28,9 @@
     },
     {
       "ipo_name": "Tenneco Clean Air",
-      "gmp": "₹67",
+      "gmp": "₹55",
       "price_band": "₹397",
-      "listing_gain": "16.87%"
+      "listing_gain": "13.85%"
     },
     {
       "ipo_name": "Fujiyama Power",
@@ -47,7 +41,7 @@
     {
       "ipo_name": "Capillary Technologies",
       "gmp": "₹-",
-      "price_band": "₹-",
+      "price_band": "₹577",
       "listing_gain": "-%"
     },
     {
@@ -94,9 +88,9 @@
     },
     {
       "ipo_name": "Workmates Core2Cloud",
-      "gmp": "₹25",
+      "gmp": "₹28",
       "price_band": "₹204",
-      "listing_gain": "12.25%"
+      "listing_gain": "13.72%"
     },
     {
       "ipo_name": "Shipwaves Online",
