@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-13T04:14:54.471381",
+  "last_updated": "2025-11-13T05:01:27.508590",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
@@ -41,7 +41,7 @@
     {
       "ipo_name": "Excelsoft Technologies",
       "gmp": "₹-",
-      "price_band": "₹-",
+      "price_band": "₹120",
       "listing_gain": "-%"
     },
     {
@@ -85,6 +85,12 @@
       "gmp": "₹51",
       "price_band": "₹204",
       "listing_gain": "25%"
+    },
+    {
+      "ipo_name": "Gallard Steel",
+      "gmp": "₹-",
+      "price_band": "₹150",
+      "listing_gain": "-%"
     },
     {
       "ipo_name": "Shipwaves Online",
