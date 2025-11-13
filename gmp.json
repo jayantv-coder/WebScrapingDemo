@@ -1,36 +1,30 @@
 {
-  "last_updated": "2025-11-13T00:42:20.314923",
+  "last_updated": "2025-11-13T02:27:28.378252",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
-      "ipo_name": "Groww",
-      "gmp": "₹5",
-      "price_band": "₹100",
-      "listing_gain": "5.00%"
-    },
-    {
       "ipo_name": "Pine Labs",
-      "gmp": "₹1",
+      "gmp": "₹6",
       "price_band": "₹221",
-      "listing_gain": "0.45%"
+      "listing_gain": "2.71%"
     },
     {
       "ipo_name": "PhysicsWallah",
-      "gmp": "₹1",
+      "gmp": "₹2",
       "price_band": "₹109",
-      "listing_gain": "0.91%"
+      "listing_gain": "0.92%"
     },
     {
       "ipo_name": "Emmvee Photovoltaic",
-      "gmp": "₹5",
+      "gmp": "₹2",
       "price_band": "₹217",
       "listing_gain": "2.30%"
     },
     {
       "ipo_name": "Tenneco Clean Air",
-      "gmp": "₹61",
+      "gmp": "₹86",
       "price_band": "₹397",
-      "listing_gain": "15.36%"
+      "listing_gain": "21.66%"
     },
     {
       "ipo_name": "Fujiyama Power",
@@ -63,22 +57,16 @@
       "listing_gain": "-%"
     },
     {
-      "ipo_name": "Shreeji Global FMCG",
-      "gmp": "₹-",
-      "price_band": "₹125",
-      "listing_gain": "-%"
-    },
-    {
       "ipo_name": "Finbud Financial",
-      "gmp": "₹-",
+      "gmp": "₹11",
       "price_band": "₹142",
-      "listing_gain": "-%"
+      "listing_gain": "7.74%"
     },
     {
       "ipo_name": "Curis Lifesciences",
-      "gmp": "₹6",
+      "gmp": "₹8",
       "price_band": "₹128",
-      "listing_gain": "4.68%"
+      "listing_gain": "6.25%"
     },
     {
       "ipo_name": "Shining Tools",
@@ -94,9 +82,9 @@
     },
     {
       "ipo_name": "Workmates Core2Cloud",
-      "gmp": "₹36",
+      "gmp": "₹51",
       "price_band": "₹204",
-      "listing_gain": "17.64%"
+      "listing_gain": "25%"
     },
     {
       "ipo_name": "Shipwaves Online",
