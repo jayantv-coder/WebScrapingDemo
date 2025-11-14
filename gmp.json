@@ -1,18 +1,18 @@
 {
-  "last_updated": "2025-11-14T02:25:23.296985",
+  "last_updated": "2025-11-14T03:31:24.240602",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
       "ipo_name": "Pine Labs",
-      "gmp": "₹6",
+      "gmp": "₹5",
       "price_band": "₹221",
-      "listing_gain": "2.71%"
+      "listing_gain": "2.26%"
     },
     {
       "ipo_name": "PhysicsWallah",
-      "gmp": "₹2",
+      "gmp": "₹-",
       "price_band": "₹109",
-      "listing_gain": "0.92%"
+      "listing_gain": "-%"
     },
     {
       "ipo_name": "Emmvee Photovoltaic",
@@ -22,9 +22,9 @@
     },
     {
       "ipo_name": "Tenneco Clean Air",
-      "gmp": "₹86",
+      "gmp": "₹76",
       "price_band": "₹397",
-      "listing_gain": "21.66%"
+      "listing_gain": "19.14%"
     },
     {
       "ipo_name": "Fujiyama Power",
@@ -57,16 +57,10 @@
       "listing_gain": "-%"
     },
     {
-      "ipo_name": "Finbud Financial",
-      "gmp": "₹11",
-      "price_band": "₹142",
-      "listing_gain": "7.74%"
-    },
-    {
       "ipo_name": "Curis Lifesciences",
-      "gmp": "₹8",
+      "gmp": "₹9",
       "price_band": "₹128",
-      "listing_gain": "6.25%"
+      "listing_gain": "7.03%"
     },
     {
       "ipo_name": "Shining Tools",
