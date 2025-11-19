@@ -1,12 +1,12 @@
 {
-  "last_updated": "2025-11-18T02:02:21.042408",
+  "last_updated": "2025-11-19T02:02:16.293733",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
       "ipo_name": "PhysicsWallah",
-      "gmp": "₹8",
+      "gmp": "₹14",
       "price_band": "₹109",
-      "listing_gain": "7.33%"
+      "listing_gain": "12.84%"
     },
     {
       "ipo_name": "Emmvee Photovoltaic",
@@ -16,27 +16,33 @@
     },
     {
       "ipo_name": "Tenneco Clean Air",
-      "gmp": "₹123",
+      "gmp": "₹121",
       "price_band": "₹397",
-      "listing_gain": "30.98%"
+      "listing_gain": "30.47%"
     },
     {
       "ipo_name": "Fujiyama Power",
-      "gmp": "₹-",
+      "gmp": "₹2",
       "price_band": "₹228",
-      "listing_gain": "-%"
+      "listing_gain": "0.87%"
     },
     {
       "ipo_name": "Capillary Technologies",
-      "gmp": "₹22",
+      "gmp": "₹29",
       "price_band": "₹577",
-      "listing_gain": "3.81%"
+      "listing_gain": "5.02%"
     },
     {
       "ipo_name": "Excelsoft Technologies",
-      "gmp": "₹20",
+      "gmp": "₹16",
       "price_band": "₹120",
-      "listing_gain": "16.66%"
+      "listing_gain": "13.33%"
+    },
+    {
+      "ipo_name": "Sudeep Pharma",
+      "gmp": "₹-",
+      "price_band": "₹593",
+      "listing_gain": "-%"
     },
     {
       "ipo_name": "Vidya Wires",
@@ -58,15 +64,15 @@
     },
     {
       "ipo_name": "Workmates Core2Cloud",
-      "gmp": "₹90",
+      "gmp": "₹88",
       "price_band": "₹204",
-      "listing_gain": "44.11%"
+      "listing_gain": "43.13%"
     },
     {
       "ipo_name": "Gallard Steel",
-      "gmp": "₹-",
+      "gmp": "₹11",
       "price_band": "₹150",
-      "listing_gain": "-%"
+      "listing_gain": "7.33%"
     },
     {
       "ipo_name": "Shipwaves Online",
