@@ -1,36 +1,30 @@
 {
-  "last_updated": "2025-11-20T02:00:46.528097",
+  "last_updated": "2025-11-21T02:01:31.642445",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
-      "ipo_name": "Tenneco Clean Air",
-      "gmp": "₹102",
-      "price_band": "₹397",
-      "listing_gain": "25.69%"
-    },
-    {
       "ipo_name": "Fujiyama Power",
-      "gmp": "₹3",
+      "gmp": "₹1",
       "price_band": "₹228",
-      "listing_gain": "1.31%"
+      "listing_gain": "0.43%"
     },
     {
       "ipo_name": "Capillary Technologies",
-      "gmp": "₹63",
+      "gmp": "₹55",
       "price_band": "₹577",
-      "listing_gain": "10.91%"
+      "listing_gain": "9.53%"
     },
     {
       "ipo_name": "Excelsoft Technologies",
-      "gmp": "₹16",
+      "gmp": "₹15",
       "price_band": "₹120",
-      "listing_gain": "13.33%"
+      "listing_gain": "12.5%"
     },
     {
       "ipo_name": "Sudeep Pharma",
-      "gmp": "₹93",
+      "gmp": "₹130",
       "price_band": "₹593",
-      "listing_gain": "15.67%"
+      "listing_gain": "21.92%"
     },
     {
       "ipo_name": "Vidya Wires",
@@ -46,9 +40,15 @@
     },
     {
       "ipo_name": "Gallard Steel",
-      "gmp": "₹11",
+      "gmp": "₹40",
       "price_band": "₹150",
-      "listing_gain": "7.33%"
+      "listing_gain": "26.66%"
+    },
+    {
+      "ipo_name": "SSMD Agrotech",
+      "gmp": "₹-",
+      "price_band": "₹120",
+      "listing_gain": "-%"
     },
     {
       "ipo_name": "Shipwaves Online",
