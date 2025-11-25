@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-24T02:10:42.300054",
+  "last_updated": "2025-11-25T02:04:21.317305",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
@@ -10,9 +10,15 @@
     },
     {
       "ipo_name": "Sudeep Pharma",
-      "gmp": "₹112",
+      "gmp": "₹115",
       "price_band": "₹593",
-      "listing_gain": "18.88%"
+      "listing_gain": "19.39%"
+    },
+    {
+      "ipo_name": "Aequs",
+      "gmp": "₹-",
+      "price_band": "₹-",
+      "listing_gain": "-%"
     },
     {
       "ipo_name": "Vidya Wires",
@@ -48,6 +54,24 @@
       "ipo_name": "K K Silk Mills",
       "gmp": "₹-",
       "price_band": "₹38",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "Purple Wave Infocom",
+      "gmp": "₹-",
+      "price_band": "₹126",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "Exato Technologies",
+      "gmp": "₹-",
+      "price_band": "₹140",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "Ravelcare",
+      "gmp": "₹-",
+      "price_band": "₹130",
       "listing_gain": "-%"
     },
     {
