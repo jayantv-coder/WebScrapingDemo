@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-25T02:04:21.317305",
+  "last_updated": "2025-11-26T02:04:12.223933",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
@@ -10,9 +10,9 @@
     },
     {
       "ipo_name": "Sudeep Pharma",
-      "gmp": "₹115",
+      "gmp": "₹85",
       "price_band": "₹593",
-      "listing_gain": "19.39%"
+      "listing_gain": "14.33%"
     },
     {
       "ipo_name": "Aequs",
@@ -40,9 +40,9 @@
     },
     {
       "ipo_name": "SSMD Agrotech",
-      "gmp": "₹-",
+      "gmp": "₹4",
       "price_band": "₹120",
-      "listing_gain": "-%"
+      "listing_gain": "3.33%"
     },
     {
       "ipo_name": "Mother Nutri Foods",
@@ -64,8 +64,14 @@
     },
     {
       "ipo_name": "Exato Technologies",
-      "gmp": "₹-",
+      "gmp": "₹80",
       "price_band": "₹140",
+      "listing_gain": "57.14%"
+    },
+    {
+      "ipo_name": "Logiciel Solutions",
+      "gmp": "₹-",
+      "price_band": "₹193",
       "listing_gain": "-%"
     },
     {
@@ -75,15 +81,27 @@
       "listing_gain": "-%"
     },
     {
-      "ipo_name": "Shipwaves Online",
+      "ipo_name": "Invicta Diagnostic",
       "gmp": "₹-",
-      "price_band": "₹12",
+      "price_band": "₹85",
       "listing_gain": "-%"
     },
     {
       "ipo_name": "Clear Secured",
       "gmp": "₹-",
+      "price_band": "₹132",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "Neochem Bio",
+      "gmp": "₹-",
       "price_band": "₹-",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "Shipwaves Online",
+      "gmp": "₹-",
+      "price_band": "₹12",
       "listing_gain": "-%"
     },
     {
