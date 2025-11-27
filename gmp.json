@@ -1,18 +1,24 @@
 {
-  "last_updated": "2025-11-26T02:04:12.223933",
+  "last_updated": "2025-11-27T02:01:28.505449",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
       "ipo_name": "Excelsoft Technologies",
-      "gmp": "₹8",
+      "gmp": "₹7",
       "price_band": "₹120",
-      "listing_gain": "6.67%"
+      "listing_gain": "5.83%"
     },
     {
       "ipo_name": "Sudeep Pharma",
       "gmp": "₹85",
       "price_band": "₹593",
       "listing_gain": "14.33%"
+    },
+    {
+      "ipo_name": "Meesho",
+      "gmp": "₹-",
+      "price_band": "₹-",
+      "listing_gain": "-%"
     },
     {
       "ipo_name": "Aequs",
@@ -34,15 +40,15 @@
     },
     {
       "ipo_name": "Gallard Steel",
-      "gmp": "₹70",
+      "gmp": "₹60",
       "price_band": "₹150",
-      "listing_gain": "46.67%"
+      "listing_gain": "40%"
     },
     {
       "ipo_name": "SSMD Agrotech",
-      "gmp": "₹4",
+      "gmp": "₹5",
       "price_band": "₹120",
-      "listing_gain": "3.33%"
+      "listing_gain": "4.16%"
     },
     {
       "ipo_name": "Mother Nutri Foods",
@@ -52,9 +58,9 @@
     },
     {
       "ipo_name": "K K Silk Mills",
-      "gmp": "₹-",
+      "gmp": "₹7",
       "price_band": "₹38",
-      "listing_gain": "-%"
+      "listing_gain": "18.42%"
     },
     {
       "ipo_name": "Purple Wave Infocom",
@@ -64,9 +70,9 @@
     },
     {
       "ipo_name": "Exato Technologies",
-      "gmp": "₹80",
+      "gmp": "₹75",
       "price_band": "₹140",
-      "listing_gain": "57.14%"
+      "listing_gain": "53.56%"
     },
     {
       "ipo_name": "Logiciel Solutions",
@@ -76,9 +82,9 @@
     },
     {
       "ipo_name": "Ravelcare",
-      "gmp": "₹-",
+      "gmp": "₹12",
       "price_band": "₹130",
-      "listing_gain": "-%"
+      "listing_gain": "9.23%"
     },
     {
       "ipo_name": "Invicta Diagnostic",
@@ -93,9 +99,27 @@
       "listing_gain": "-%"
     },
     {
+      "ipo_name": "Astron Multigrain",
+      "gmp": "₹-",
+      "price_band": "₹63",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "Speb Adhesives",
+      "gmp": "₹-",
+      "price_band": "₹56",
+      "listing_gain": "-%"
+    },
+    {
       "ipo_name": "Neochem Bio",
       "gmp": "₹-",
-      "price_band": "₹-",
+      "price_band": "₹98",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "Helloji Holidays",
+      "gmp": "₹-",
+      "price_band": "₹118",
       "listing_gain": "-%"
     },
     {
