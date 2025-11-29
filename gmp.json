@@ -1,29 +1,29 @@
 {
-  "last_updated": "2025-11-28T02:01:07.779548",
+  "last_updated": "2025-11-29T02:01:03.052037",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
       "ipo_name": "Sudeep Pharma",
-      "gmp": "₹85",
+      "gmp": "₹115",
       "price_band": "₹593",
-      "listing_gain": "14.33%"
+      "listing_gain": "19.39%"
     },
     {
       "ipo_name": "Meesho",
-      "gmp": "₹-",
-      "price_band": "₹-",
-      "listing_gain": "-%"
+      "gmp": "₹33",
+      "price_band": "₹111",
+      "listing_gain": "29.72%"
     },
     {
       "ipo_name": "Aequs",
-      "gmp": "₹-",
-      "price_band": "₹-",
-      "listing_gain": "-%"
+      "gmp": "₹18",
+      "price_band": "₹124",
+      "listing_gain": "14.51%"
     },
     {
       "ipo_name": "Vidya Wires",
       "gmp": "₹-",
-      "price_band": "₹-",
+      "price_band": "₹52",
       "listing_gain": "-%"
     },
     {
@@ -58,15 +58,15 @@
     },
     {
       "ipo_name": "Exato Technologies",
-      "gmp": "₹95",
+      "gmp": "₹116",
       "price_band": "₹140",
-      "listing_gain": "67.86%"
+      "listing_gain": "82.86%"
     },
     {
       "ipo_name": "Logiciel Solutions",
-      "gmp": "₹-",
+      "gmp": "₹40",
       "price_band": "₹193",
-      "listing_gain": "-%"
+      "listing_gain": "20.73%"
     },
     {
       "ipo_name": "Ravelcare",
@@ -82,9 +82,9 @@
     },
     {
       "ipo_name": "Clear Secured",
-      "gmp": "₹11",
+      "gmp": "₹8",
       "price_band": "₹132",
-      "listing_gain": "8.33%"
+      "listing_gain": "6.06%"
     },
     {
       "ipo_name": "Astron Multigrain",
@@ -100,14 +100,26 @@
     },
     {
       "ipo_name": "Neochem Bio",
-      "gmp": "₹10",
+      "gmp": "₹6",
       "price_band": "₹98",
-      "listing_gain": "10.20%"
+      "listing_gain": "6.12%"
     },
     {
       "ipo_name": "Helloji Holidays",
       "gmp": "₹-",
       "price_band": "₹118",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "Luxury Time",
+      "gmp": "₹-",
+      "price_band": "₹82",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "Methodhub Software",
+      "gmp": "₹-",
+      "price_band": "₹-",
       "listing_gain": "-%"
     },
     {
