@@ -1,24 +1,30 @@
 {
-  "last_updated": "2025-11-30T02:21:11.809289",
+  "last_updated": "2025-12-01T02:29:57.385008",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
       "ipo_name": "Meesho",
-      "gmp": "₹36",
+      "gmp": "₹42",
       "price_band": "₹111",
-      "listing_gain": "32.43%"
+      "listing_gain": "37.84%"
     },
     {
       "ipo_name": "Aequs",
-      "gmp": "₹40",
+      "gmp": "₹43",
       "price_band": "₹124",
-      "listing_gain": "32.26%"
+      "listing_gain": "34.67%"
     },
     {
       "ipo_name": "Vidya Wires",
-      "gmp": "₹8",
+      "gmp": "₹10",
       "price_band": "₹52",
-      "listing_gain": "15.38%"
+      "listing_gain": "19.23%"
+    },
+    {
+      "ipo_name": "Wakefit Innovations",
+      "gmp": "₹-",
+      "price_band": "₹-",
+      "listing_gain": "-%"
     },
     {
       "ipo_name": "Clean Max Enviro",
@@ -64,9 +70,9 @@
     },
     {
       "ipo_name": "Ravelcare",
-      "gmp": "₹14",
+      "gmp": "₹40",
       "price_band": "₹130",
-      "listing_gain": "10.76%"
+      "listing_gain": "30.77%"
     },
     {
       "ipo_name": "Invicta Diagnostic",
@@ -82,9 +88,9 @@
     },
     {
       "ipo_name": "Astron Multigrain",
-      "gmp": "₹-",
+      "gmp": "₹12",
       "price_band": "₹63",
-      "listing_gain": "-%"
+      "listing_gain": "19.05%"
     },
     {
       "ipo_name": "Speb Adhesives",
@@ -94,27 +100,27 @@
     },
     {
       "ipo_name": "Neochem Bio",
-      "gmp": "₹6",
+      "gmp": "₹9",
       "price_band": "₹98",
-      "listing_gain": "6.12%"
+      "listing_gain": "9.18%"
     },
     {
       "ipo_name": "Helloji Holidays",
-      "gmp": "₹9",
+      "gmp": "₹11",
       "price_band": "₹118",
-      "listing_gain": "7.62%"
+      "listing_gain": "9.32%"
     },
     {
       "ipo_name": "Shri Kanha Stainless",
-      "gmp": "₹-",
+      "gmp": "₹11",
       "price_band": "₹90",
-      "listing_gain": "-%"
+      "listing_gain": "12.22%"
     },
     {
       "ipo_name": "Luxury Time",
-      "gmp": "₹-",
+      "gmp": "₹20",
       "price_band": "₹82",
-      "listing_gain": "-%"
+      "listing_gain": "24.39%"
     },
     {
       "ipo_name": "Western Overseas",
@@ -126,6 +132,12 @@
       "ipo_name": "Methodhub Software",
       "gmp": "₹-",
       "price_band": "₹-",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "ScaleSauce",
+      "gmp": "₹-",
+      "price_band": "₹107",
       "listing_gain": "-%"
     },
     {
