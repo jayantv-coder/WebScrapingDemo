@@ -1,18 +1,18 @@
 {
-  "last_updated": "2025-12-04T02:06:38.519959",
+  "last_updated": "2025-12-05T02:06:55.567501",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
       "ipo_name": "Meesho",
-      "gmp": "₹51",
+      "gmp": "₹46",
       "price_band": "₹111",
-      "listing_gain": "45.94%"
+      "listing_gain": "41.44%"
     },
     {
       "ipo_name": "Aequs",
-      "gmp": "₹47",
+      "gmp": "₹46",
       "price_band": "₹124",
-      "listing_gain": "37.90%"
+      "listing_gain": "37.09%"
     },
     {
       "ipo_name": "Vidya Wires",
@@ -28,14 +28,14 @@
     },
     {
       "ipo_name": "Corona Remedies",
-      "gmp": "₹-",
+      "gmp": "₹307",
       "price_band": "₹1062",
-      "listing_gain": "-%"
+      "listing_gain": "28.91%"
     },
     {
       "ipo_name": "Nephrocare Health",
       "gmp": "₹-",
-      "price_band": "₹-",
+      "price_band": "₹460",
       "listing_gain": "-%"
     },
     {
@@ -57,18 +57,6 @@
       "listing_gain": "-%"
     },
     {
-      "ipo_name": "Mother Nutri Foods",
-      "gmp": "₹-",
-      "price_band": "₹117",
-      "listing_gain": "-%"
-    },
-    {
-      "ipo_name": "K K Silk Mills",
-      "gmp": "₹-",
-      "price_band": "₹38",
-      "listing_gain": "-%"
-    },
-    {
       "ipo_name": "Purple Wave Infocom",
       "gmp": "₹-",
       "price_band": "₹126",
@@ -76,9 +64,9 @@
     },
     {
       "ipo_name": "Exato Technologies",
-      "gmp": "₹170",
+      "gmp": "₹175",
       "price_band": "₹140",
-      "listing_gain": "121.42%"
+      "listing_gain": "125%"
     },
     {
       "ipo_name": "Logiciel Solutions",
@@ -88,21 +76,21 @@
     },
     {
       "ipo_name": "Ravelcare",
-      "gmp": "₹78",
+      "gmp": "₹80",
       "price_band": "₹130",
-      "listing_gain": "60%"
+      "listing_gain": "61.54%"
     },
     {
       "ipo_name": "Invicta Diagnostic",
-      "gmp": "₹3",
+      "gmp": "₹-",
       "price_band": "₹85",
-      "listing_gain": "3.52%"
+      "listing_gain": "-%"
     },
     {
       "ipo_name": "Clear Secured",
-      "gmp": "₹11",
+      "gmp": "₹6",
       "price_band": "₹132",
-      "listing_gain": "8.33%"
+      "listing_gain": "4.55%"
     },
     {
       "ipo_name": "Astron Multigrain",
@@ -118,27 +106,27 @@
     },
     {
       "ipo_name": "Neochem Bio",
-      "gmp": "₹-",
+      "gmp": "₹4",
       "price_band": "₹98",
-      "listing_gain": "-%"
+      "listing_gain": "4.08%"
     },
     {
       "ipo_name": "Helloji Holidays",
-      "gmp": "₹-",
+      "gmp": "₹6",
       "price_band": "₹118",
-      "listing_gain": "-%"
+      "listing_gain": "5.08%"
     },
     {
       "ipo_name": "Shri Kanha Stainless",
-      "gmp": "₹22",
+      "gmp": "₹25",
       "price_band": "₹90",
-      "listing_gain": "24.44%"
+      "listing_gain": "27.78%"
     },
     {
       "ipo_name": "Luxury Time",
-      "gmp": "₹18",
+      "gmp": "₹20",
       "price_band": "₹82",
-      "listing_gain": "21.95%"
+      "listing_gain": "24.39%"
     },
     {
       "ipo_name": "Western Overseas",
@@ -172,14 +160,20 @@
     },
     {
       "ipo_name": "K. V. Toys India",
-      "gmp": "₹24",
+      "gmp": "₹27",
       "price_band": "₹239",
-      "listing_gain": "10.04%"
+      "listing_gain": "11.30%"
     },
     {
       "ipo_name": "Prodocs Solutions",
       "gmp": "₹-",
       "price_band": "₹138",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "Neptune Logitek",
+      "gmp": "₹-",
+      "price_band": "₹126",
       "listing_gain": "-%"
     },
     {
