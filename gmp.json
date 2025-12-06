@@ -1,18 +1,18 @@
 {
-  "last_updated": "2025-12-05T02:06:55.567501",
+  "last_updated": "2025-12-06T02:00:11.732607",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
       "ipo_name": "Meesho",
-      "gmp": "₹46",
+      "gmp": "₹48",
       "price_band": "₹111",
-      "listing_gain": "41.44%"
+      "listing_gain": "43.24%"
     },
     {
       "ipo_name": "Aequs",
-      "gmp": "₹46",
+      "gmp": "₹43",
       "price_band": "₹124",
-      "listing_gain": "37.09%"
+      "listing_gain": "34.67%"
     },
     {
       "ipo_name": "Vidya Wires",
@@ -28,9 +28,9 @@
     },
     {
       "ipo_name": "Corona Remedies",
-      "gmp": "₹307",
+      "gmp": "₹365",
       "price_band": "₹1062",
-      "listing_gain": "28.91%"
+      "listing_gain": "34.37%"
     },
     {
       "ipo_name": "Nephrocare Health",
@@ -40,6 +40,12 @@
     },
     {
       "ipo_name": "Park Medi World",
+      "gmp": "₹-",
+      "price_band": "₹162",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "ICICI Prudential AMC",
       "gmp": "₹-",
       "price_band": "₹-",
       "listing_gain": "-%"
@@ -64,9 +70,9 @@
     },
     {
       "ipo_name": "Exato Technologies",
-      "gmp": "₹175",
+      "gmp": "₹177",
       "price_band": "₹140",
-      "listing_gain": "125%"
+      "listing_gain": "126.43%"
     },
     {
       "ipo_name": "Logiciel Solutions",
@@ -106,39 +112,39 @@
     },
     {
       "ipo_name": "Neochem Bio",
-      "gmp": "₹4",
+      "gmp": "₹6",
       "price_band": "₹98",
-      "listing_gain": "4.08%"
+      "listing_gain": "6.12%"
     },
     {
       "ipo_name": "Helloji Holidays",
-      "gmp": "₹6",
+      "gmp": "₹25",
       "price_band": "₹118",
-      "listing_gain": "5.08%"
+      "listing_gain": "21.19%"
     },
     {
       "ipo_name": "Shri Kanha Stainless",
-      "gmp": "₹25",
+      "gmp": "₹-",
       "price_band": "₹90",
-      "listing_gain": "27.78%"
+      "listing_gain": "-%"
     },
     {
       "ipo_name": "Luxury Time",
-      "gmp": "₹20",
+      "gmp": "₹75",
       "price_band": "₹82",
-      "listing_gain": "24.39%"
+      "listing_gain": "91.46%"
     },
     {
       "ipo_name": "Western Overseas",
-      "gmp": "₹-",
+      "gmp": "₹10",
       "price_band": "₹56",
-      "listing_gain": "-%"
+      "listing_gain": "17.85%"
     },
     {
       "ipo_name": "Methodhub Software",
-      "gmp": "₹-",
+      "gmp": "₹20",
       "price_band": "₹194",
-      "listing_gain": "-%"
+      "listing_gain": "10.30%"
     },
     {
       "ipo_name": "Flywings Simulator",
@@ -160,14 +166,26 @@
     },
     {
       "ipo_name": "K. V. Toys India",
-      "gmp": "₹27",
+      "gmp": "₹54",
       "price_band": "₹239",
-      "listing_gain": "11.30%"
+      "listing_gain": "22.59%"
     },
     {
       "ipo_name": "Prodocs Solutions",
       "gmp": "₹-",
       "price_band": "₹138",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "Unisem Agritech",
+      "gmp": "₹-",
+      "price_band": "₹65",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "Pajson Agro",
+      "gmp": "₹-",
+      "price_band": "₹118",
       "listing_gain": "-%"
     },
     {
