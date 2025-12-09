@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-08T02:07:56.497627",
+  "last_updated": "2025-12-09T02:06:32.473144",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
@@ -10,15 +10,15 @@
     },
     {
       "ipo_name": "Aequs",
-      "gmp": "₹43",
+      "gmp": "₹40",
       "price_band": "₹124",
-      "listing_gain": "34.67%"
+      "listing_gain": "32.25%"
     },
     {
       "ipo_name": "Vidya Wires",
-      "gmp": "₹6",
+      "gmp": "₹4",
       "price_band": "₹52",
-      "listing_gain": "11.54%"
+      "listing_gain": "7.69%"
     },
     {
       "ipo_name": "Wakefit Innovations",
@@ -28,9 +28,9 @@
     },
     {
       "ipo_name": "Corona Remedies",
-      "gmp": "₹365",
+      "gmp": "₹290",
       "price_band": "₹1062",
-      "listing_gain": "34.37%"
+      "listing_gain": "27.31%"
     },
     {
       "ipo_name": "Nephrocare Health",
@@ -40,15 +40,15 @@
     },
     {
       "ipo_name": "Park Medi World",
-      "gmp": "₹30",
+      "gmp": "₹33",
       "price_band": "₹162",
-      "listing_gain": "18.52%"
+      "listing_gain": "20.37%"
     },
     {
       "ipo_name": "ICICI Prudential AMC",
-      "gmp": "₹340",
+      "gmp": "₹125",
       "price_band": "₹2165",
-      "listing_gain": "-%"
+      "listing_gain": "5.77%"
     },
     {
       "ipo_name": "Clean Max Enviro",
@@ -57,16 +57,10 @@
       "listing_gain": "-%"
     },
     {
-      "ipo_name": "SSMD Agrotech",
-      "gmp": "₹-",
-      "price_band": "₹120",
-      "listing_gain": "-%"
-    },
-    {
       "ipo_name": "Ravelcare",
-      "gmp": "₹80",
+      "gmp": "₹75",
       "price_band": "₹130",
-      "listing_gain": "61.54%"
+      "listing_gain": "57.69%"
     },
     {
       "ipo_name": "Invicta Diagnostic",
@@ -76,9 +70,9 @@
     },
     {
       "ipo_name": "Clear Secured",
-      "gmp": "₹6",
+      "gmp": "₹3",
       "price_band": "₹132",
-      "listing_gain": "4.55%"
+      "listing_gain": "2.27%"
     },
     {
       "ipo_name": "Astron Multigrain",
@@ -100,9 +94,9 @@
     },
     {
       "ipo_name": "Helloji Holidays",
-      "gmp": "₹10",
+      "gmp": "₹12",
       "price_band": "₹118",
-      "listing_gain": "8.47%"
+      "listing_gain": "10.16%"
     },
     {
       "ipo_name": "Shri Kanha Stainless",
@@ -118,9 +112,9 @@
     },
     {
       "ipo_name": "Western Overseas",
-      "gmp": "₹4",
+      "gmp": "₹2",
       "price_band": "₹56",
-      "listing_gain": "7.14%"
+      "listing_gain": "3.57%"
     },
     {
       "ipo_name": "Methodhub Software",
@@ -148,9 +142,9 @@
     },
     {
       "ipo_name": "K. V. Toys India",
-      "gmp": "₹65",
+      "gmp": "₹78",
       "price_band": "₹239",
-      "listing_gain": "27.19%"
+      "listing_gain": "32.63%"
     },
     {
       "ipo_name": "Prodocs Solutions",
@@ -174,6 +168,12 @@
       "ipo_name": "Pajson Agro",
       "gmp": "₹-",
       "price_band": "₹118",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "HRS Aluglaze",
+      "gmp": "₹-",
+      "price_band": "₹96",
       "listing_gain": "-%"
     },
     {
