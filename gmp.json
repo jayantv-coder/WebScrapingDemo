@@ -1,18 +1,18 @@
 {
-  "last_updated": "2025-12-09T02:06:32.473144",
+  "last_updated": "2025-12-10T02:08:52.650136",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
       "ipo_name": "Meesho",
-      "gmp": "₹47",
+      "gmp": "₹39",
       "price_band": "₹111",
-      "listing_gain": "42.34%"
+      "listing_gain": "35.14%"
     },
     {
       "ipo_name": "Aequs",
-      "gmp": "₹40",
+      "gmp": "₹34",
       "price_band": "₹124",
-      "listing_gain": "32.25%"
+      "listing_gain": "27.42%"
     },
     {
       "ipo_name": "Vidya Wires",
@@ -22,15 +22,15 @@
     },
     {
       "ipo_name": "Wakefit Innovations",
-      "gmp": "₹36",
+      "gmp": "₹5",
       "price_band": "₹195",
-      "listing_gain": "18.46%"
+      "listing_gain": "2.56%"
     },
     {
       "ipo_name": "Corona Remedies",
-      "gmp": "₹290",
+      "gmp": "₹262",
       "price_band": "₹1062",
-      "listing_gain": "27.31%"
+      "listing_gain": "24.67%"
     },
     {
       "ipo_name": "Nephrocare Health",
@@ -40,15 +40,15 @@
     },
     {
       "ipo_name": "Park Medi World",
-      "gmp": "₹33",
+      "gmp": "₹29",
       "price_band": "₹162",
-      "listing_gain": "20.37%"
+      "listing_gain": "17.90%"
     },
     {
       "ipo_name": "ICICI Prudential AMC",
-      "gmp": "₹125",
+      "gmp": "₹85",
       "price_band": "₹2165",
-      "listing_gain": "5.77%"
+      "listing_gain": "3.92%"
     },
     {
       "ipo_name": "Clean Max Enviro",
@@ -57,46 +57,16 @@
       "listing_gain": "-%"
     },
     {
-      "ipo_name": "Ravelcare",
-      "gmp": "₹75",
-      "price_band": "₹130",
-      "listing_gain": "57.69%"
-    },
-    {
-      "ipo_name": "Invicta Diagnostic",
-      "gmp": "₹-",
-      "price_band": "₹85",
-      "listing_gain": "-%"
-    },
-    {
-      "ipo_name": "Clear Secured",
-      "gmp": "₹3",
-      "price_band": "₹132",
-      "listing_gain": "2.27%"
-    },
-    {
-      "ipo_name": "Astron Multigrain",
-      "gmp": "₹-",
-      "price_band": "₹63",
-      "listing_gain": "-%"
-    },
-    {
-      "ipo_name": "Speb Adhesives",
-      "gmp": "₹-",
-      "price_band": "₹56",
-      "listing_gain": "-%"
-    },
-    {
       "ipo_name": "Neochem Bio",
-      "gmp": "₹10",
+      "gmp": "₹2",
       "price_band": "₹98",
-      "listing_gain": "10.20%"
+      "listing_gain": "2.04%"
     },
     {
       "ipo_name": "Helloji Holidays",
-      "gmp": "₹12",
+      "gmp": "₹9",
       "price_band": "₹118",
-      "listing_gain": "10.16%"
+      "listing_gain": "(7.63%"
     },
     {
       "ipo_name": "Shri Kanha Stainless",
@@ -106,21 +76,21 @@
     },
     {
       "ipo_name": "Luxury Time",
-      "gmp": "₹90",
+      "gmp": "₹104",
       "price_band": "₹82",
-      "listing_gain": "109.76%"
+      "listing_gain": "126.83%"
     },
     {
       "ipo_name": "Western Overseas",
-      "gmp": "₹2",
+      "gmp": "₹-",
       "price_band": "₹56",
-      "listing_gain": "3.57%"
+      "listing_gain": "-%"
     },
     {
       "ipo_name": "Methodhub Software",
-      "gmp": "₹35",
+      "gmp": "₹23",
       "price_band": "₹194",
-      "listing_gain": "18.04%"
+      "listing_gain": "11.86%"
     },
     {
       "ipo_name": "Flywings Simulator",
@@ -136,15 +106,15 @@
     },
     {
       "ipo_name": "Riddhi Display",
-      "gmp": "₹-",
+      "gmp": "₹1",
       "price_band": "₹100",
-      "listing_gain": "-%"
+      "listing_gain": "1.00%"
     },
     {
       "ipo_name": "K. V. Toys India",
-      "gmp": "₹78",
+      "gmp": "₹80",
       "price_band": "₹239",
-      "listing_gain": "32.63%"
+      "listing_gain": "33.47%"
     },
     {
       "ipo_name": "Prodocs Solutions",
@@ -180,6 +150,18 @@
       "ipo_name": "Ashwini Container Movers",
       "gmp": "₹-",
       "price_band": "₹142",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "Stanbik Agro",
+      "gmp": "₹-",
+      "price_band": "₹30",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "Exim Routes",
+      "gmp": "₹-",
+      "price_band": "₹88",
       "listing_gain": "-%"
     },
     {
