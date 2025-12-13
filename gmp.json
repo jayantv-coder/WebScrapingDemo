@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-12T02:10:17.719225",
+  "last_updated": "2025-12-13T02:03:31.735730",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
@@ -10,9 +10,9 @@
     },
     {
       "ipo_name": "Corona Remedies",
-      "gmp": "₹305",
+      "gmp": "₹300",
       "price_band": "₹1062",
-      "listing_gain": "28.71%"
+      "listing_gain": "28.24%"
     },
     {
       "ipo_name": "Nephrocare Health",
@@ -22,15 +22,15 @@
     },
     {
       "ipo_name": "Park Medi World",
-      "gmp": "₹14",
+      "gmp": "₹4",
       "price_band": "₹162",
-      "listing_gain": "8.64%"
+      "listing_gain": "2.47%"
     },
     {
       "ipo_name": "ICICI Prudential AMC",
-      "gmp": "₹120",
+      "gmp": "₹255",
       "price_band": "₹2165",
-      "listing_gain": "5.54%"
+      "listing_gain": "10.39%"
     },
     {
       "ipo_name": "Clean Max Enviro",
@@ -42,18 +42,6 @@
       "ipo_name": "KSH International",
       "gmp": "₹-",
       "price_band": "₹384",
-      "listing_gain": "-%"
-    },
-    {
-      "ipo_name": "Luxury Time",
-      "gmp": "₹99",
-      "price_band": "₹82",
-      "listing_gain": "120.73%"
-    },
-    {
-      "ipo_name": "Western Overseas",
-      "gmp": "₹-",
-      "price_band": "₹56",
       "listing_gain": "-%"
     },
     {
@@ -82,9 +70,9 @@
     },
     {
       "ipo_name": "K. V. Toys India",
-      "gmp": "₹120",
+      "gmp": "₹151",
       "price_band": "₹239",
-      "listing_gain": "50.21%"
+      "listing_gain": "63.18%"
     },
     {
       "ipo_name": "Prodocs Solutions",
@@ -106,21 +94,21 @@
     },
     {
       "ipo_name": "Pajson Agro",
-      "gmp": "₹-",
+      "gmp": "₹5",
       "price_band": "₹118",
-      "listing_gain": "-%"
+      "listing_gain": "4.24%"
     },
     {
       "ipo_name": "HRS Aluglaze",
-      "gmp": "₹16",
+      "gmp": "₹14",
       "price_band": "₹96",
-      "listing_gain": "16.66%"
+      "listing_gain": "14.58%"
     },
     {
       "ipo_name": "Ashwini Container Movers",
-      "gmp": "₹6",
+      "gmp": "₹9",
       "price_band": "₹142",
-      "listing_gain": "4.23%"
+      "listing_gain": "6.34%"
     },
     {
       "ipo_name": "Stanbik Agro",
@@ -138,6 +126,18 @@
       "ipo_name": "Neptune Logitek",
       "gmp": "₹-",
       "price_band": "₹126",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "MARC Technocrats",
+      "gmp": "₹-",
+      "price_band": "₹93",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "Global Ocean",
+      "gmp": "₹-",
+      "price_band": "₹78",
       "listing_gain": "-%"
     },
     {
