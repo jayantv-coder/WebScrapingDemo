@@ -1,42 +1,36 @@
 {
-  "last_updated": "2025-12-13T02:03:31.735730",
+  "last_updated": "2025-12-14T02:22:44.310822",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
       "ipo_name": "Wakefit Innovations",
-      "gmp": "₹-",
+      "gmp": "₹4",
       "price_band": "₹195",
-      "listing_gain": "-%"
+      "listing_gain": "2.05%"
     },
     {
       "ipo_name": "Corona Remedies",
-      "gmp": "₹300",
+      "gmp": "₹330",
       "price_band": "₹1062",
-      "listing_gain": "28.24%"
+      "listing_gain": "31.07%"
     },
     {
       "ipo_name": "Nephrocare Health",
-      "gmp": "₹20",
+      "gmp": "₹30",
       "price_band": "₹460",
-      "listing_gain": "4.35%"
+      "listing_gain": "6.52%"
     },
     {
       "ipo_name": "Park Medi World",
-      "gmp": "₹4",
+      "gmp": "₹7",
       "price_band": "₹162",
-      "listing_gain": "2.47%"
+      "listing_gain": "4.32%"
     },
     {
       "ipo_name": "ICICI Prudential AMC",
       "gmp": "₹255",
       "price_band": "₹2165",
       "listing_gain": "10.39%"
-    },
-    {
-      "ipo_name": "Clean Max Enviro",
-      "gmp": "₹-",
-      "price_band": "₹-",
-      "listing_gain": "-%"
     },
     {
       "ipo_name": "KSH International",
