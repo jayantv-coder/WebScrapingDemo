@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-15T02:20:01.936065",
+  "last_updated": "2025-12-16T02:11:00.587361",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
@@ -10,15 +10,15 @@
     },
     {
       "ipo_name": "Corona Remedies",
-      "gmp": "₹330",
+      "gmp": "₹340",
       "price_band": "₹1062",
-      "listing_gain": "31.07%"
+      "listing_gain": "32.01%"
     },
     {
       "ipo_name": "Nephrocare Health",
-      "gmp": "₹30",
+      "gmp": "₹38",
       "price_band": "₹460",
-      "listing_gain": "6.52%"
+      "listing_gain": "8.26%"
     },
     {
       "ipo_name": "Park Medi World",
@@ -28,14 +28,20 @@
     },
     {
       "ipo_name": "ICICI Prudential AMC",
-      "gmp": "₹255",
+      "gmp": "₹280",
       "price_band": "₹2165",
-      "listing_gain": "10.39%"
+      "listing_gain": "12.93%"
     },
     {
       "ipo_name": "KSH International",
       "gmp": "₹-",
       "price_band": "₹384",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "Gujarat Kidney",
+      "gmp": "₹-",
+      "price_band": "₹-",
       "listing_gain": "-%"
     },
     {
@@ -94,9 +100,9 @@
     },
     {
       "ipo_name": "HRS Aluglaze",
-      "gmp": "₹14",
+      "gmp": "₹19",
       "price_band": "₹96",
-      "listing_gain": "14.58%"
+      "listing_gain": "19.79%"
     },
     {
       "ipo_name": "Ashwini Container Movers",
@@ -118,9 +124,9 @@
     },
     {
       "ipo_name": "Neptune Logitek",
-      "gmp": "₹-",
+      "gmp": "₹4",
       "price_band": "₹126",
-      "listing_gain": "-%"
+      "listing_gain": "3.17%"
     },
     {
       "ipo_name": "MARC Technocrats",
@@ -135,9 +141,21 @@
       "listing_gain": "-%"
     },
     {
-      "ipo_name": "Shyam Dhani",
+      "ipo_name": "Phytochem Remedies",
       "gmp": "₹-",
+      "price_band": "₹98",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "Shyam Dhani",
+      "gmp": "₹21",
       "price_band": "₹70",
+      "listing_gain": "30%"
+    },
+    {
+      "ipo_name": "Dachepalli Publishers",
+      "gmp": "₹-",
+      "price_band": "₹-",
       "listing_gain": "-%"
     }
   ]
