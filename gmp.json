@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-17T02:05:54.744678",
+  "last_updated": "2025-12-18T02:06:30.443308",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
@@ -16,9 +16,9 @@
     },
     {
       "ipo_name": "ICICI Prudential AMC",
-      "gmp": "₹320",
+      "gmp": "₹360",
       "price_band": "₹2165",
-      "listing_gain": "14.78%"
+      "listing_gain": "16.62%"
     },
     {
       "ipo_name": "KSH International",
@@ -30,24 +30,6 @@
       "ipo_name": "Gujarat Kidney",
       "gmp": "₹-",
       "price_band": "₹114",
-      "listing_gain": "-%"
-    },
-    {
-      "ipo_name": "Methodhub Software",
-      "gmp": "₹26",
-      "price_band": "₹194",
-      "listing_gain": "13.40%"
-    },
-    {
-      "ipo_name": "Flywings Simulator",
-      "gmp": "₹-",
-      "price_band": "₹191",
-      "listing_gain": "-%"
-    },
-    {
-      "ipo_name": "ScaleSauce",
-      "gmp": "₹-",
-      "price_band": "₹107",
       "listing_gain": "-%"
     },
     {
@@ -70,9 +52,9 @@
     },
     {
       "ipo_name": "HRS Aluglaze",
-      "gmp": "₹20",
+      "gmp": "₹24",
       "price_band": "₹96",
-      "listing_gain": "20.83%"
+      "listing_gain": "25%"
     },
     {
       "ipo_name": "Ashwini Container Movers",
@@ -126,6 +108,18 @@
       "ipo_name": "Dachepalli Publishers",
       "gmp": "₹-",
       "price_band": "₹102",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "EPW India",
+      "gmp": "₹-",
+      "price_band": "₹97",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "Admach Systems",
+      "gmp": "₹-",
+      "price_band": "₹239",
       "listing_gain": "-%"
     }
   ]
