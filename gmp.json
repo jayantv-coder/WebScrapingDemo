@@ -1,24 +1,12 @@
 {
-  "last_updated": "2025-12-18T02:06:30.443308",
+  "last_updated": "2025-12-19T02:09:49.025911",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
-      "ipo_name": "Nephrocare Health",
-      "gmp": "₹40",
-      "price_band": "₹460",
-      "listing_gain": "8.69%"
-    },
-    {
-      "ipo_name": "Park Medi World",
-      "gmp": "₹5",
-      "price_band": "₹162",
-      "listing_gain": "3.09%"
-    },
-    {
       "ipo_name": "ICICI Prudential AMC",
-      "gmp": "₹360",
+      "gmp": "₹375",
       "price_band": "₹2165",
-      "listing_gain": "16.62%"
+      "listing_gain": "17.32%"
     },
     {
       "ipo_name": "KSH International",
@@ -33,18 +21,6 @@
       "listing_gain": "-%"
     },
     {
-      "ipo_name": "Unisem Agritech",
-      "gmp": "₹-",
-      "price_band": "₹65",
-      "listing_gain": "-%"
-    },
-    {
-      "ipo_name": "Shipwaves Online",
-      "gmp": "₹-",
-      "price_band": "₹12",
-      "listing_gain": "-%"
-    },
-    {
       "ipo_name": "Pajson Agro",
       "gmp": "₹5",
       "price_band": "₹118",
@@ -52,9 +28,9 @@
     },
     {
       "ipo_name": "HRS Aluglaze",
-      "gmp": "₹24",
+      "gmp": "₹22",
       "price_band": "₹96",
-      "listing_gain": "25%"
+      "listing_gain": "22.92%"
     },
     {
       "ipo_name": "Ashwini Container Movers",
@@ -100,9 +76,15 @@
     },
     {
       "ipo_name": "Shyam Dhani",
-      "gmp": "₹27",
+      "gmp": "₹31",
       "price_band": "₹70",
-      "listing_gain": "38.57%"
+      "listing_gain": "44.29%"
+    },
+    {
+      "ipo_name": "Sundrex Oil",
+      "gmp": "₹-",
+      "price_band": "₹86",
+      "listing_gain": "-%"
     },
     {
       "ipo_name": "Dachepalli Publishers",
@@ -120,6 +102,30 @@
       "ipo_name": "Admach Systems",
       "gmp": "₹-",
       "price_band": "₹239",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "Apollo Techno Industries",
+      "gmp": "₹-",
+      "price_band": "₹130",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "Nanta Tech",
+      "gmp": "₹-",
+      "price_band": "₹220",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "Dhara Rail Projects",
+      "gmp": "₹-",
+      "price_band": "₹126",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "Bai Kakaji Polymers",
+      "gmp": "₹-",
+      "price_band": "₹186",
       "listing_gain": "-%"
     }
   ]
