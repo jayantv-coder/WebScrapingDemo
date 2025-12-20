@@ -1,36 +1,24 @@
 {
-  "last_updated": "2025-12-19T02:09:49.025911",
+  "last_updated": "2025-12-20T02:03:04.980294",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
       "ipo_name": "ICICI Prudential AMC",
-      "gmp": "₹375",
+      "gmp": "₹530",
       "price_band": "₹2165",
-      "listing_gain": "17.32%"
+      "listing_gain": "24.48%"
     },
     {
       "ipo_name": "KSH International",
-      "gmp": "₹6",
-      "price_band": "₹384",
-      "listing_gain": "1.56%"
-    },
-    {
-      "ipo_name": "Gujarat Kidney",
       "gmp": "₹-",
-      "price_band": "₹114",
+      "price_band": "₹384",
       "listing_gain": "-%"
     },
     {
-      "ipo_name": "Pajson Agro",
-      "gmp": "₹5",
-      "price_band": "₹118",
-      "listing_gain": "4.24%"
-    },
-    {
-      "ipo_name": "HRS Aluglaze",
-      "gmp": "₹22",
-      "price_band": "₹96",
-      "listing_gain": "22.92%"
+      "ipo_name": "Gujarat Kidney",
+      "gmp": "₹10",
+      "price_band": "₹114",
+      "listing_gain": "8.77%"
     },
     {
       "ipo_name": "Ashwini Container Movers",
@@ -46,9 +34,9 @@
     },
     {
       "ipo_name": "Exim Routes",
-      "gmp": "₹-",
+      "gmp": "₹32",
       "price_band": "₹88",
-      "listing_gain": "-%"
+      "listing_gain": "36.36%"
     },
     {
       "ipo_name": "Neptune Logitek",
@@ -58,9 +46,9 @@
     },
     {
       "ipo_name": "MARC Technocrats",
-      "gmp": "₹-",
+      "gmp": "₹4",
       "price_band": "₹93",
-      "listing_gain": "-%"
+      "listing_gain": "4.30%"
     },
     {
       "ipo_name": "Global Ocean",
@@ -76,9 +64,9 @@
     },
     {
       "ipo_name": "Shyam Dhani",
-      "gmp": "₹31",
+      "gmp": "₹40",
       "price_band": "₹70",
-      "listing_gain": "44.29%"
+      "listing_gain": "57.14%"
     },
     {
       "ipo_name": "Sundrex Oil",
@@ -126,6 +114,12 @@
       "ipo_name": "Bai Kakaji Polymers",
       "gmp": "₹-",
       "price_band": "₹186",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "E to E Transportation",
+      "gmp": "₹-",
+      "price_band": "₹174",
       "listing_gain": "-%"
     }
   ]
