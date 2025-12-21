@@ -1,13 +1,7 @@
 {
-  "last_updated": "2025-12-20T02:03:04.980294",
+  "last_updated": "2025-12-21T02:22:45.317521",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
-    {
-      "ipo_name": "ICICI Prudential AMC",
-      "gmp": "₹530",
-      "price_band": "₹2165",
-      "listing_gain": "24.48%"
-    },
     {
       "ipo_name": "KSH International",
       "gmp": "₹-",
@@ -19,24 +13,6 @@
       "gmp": "₹10",
       "price_band": "₹114",
       "listing_gain": "8.77%"
-    },
-    {
-      "ipo_name": "Ashwini Container Movers",
-      "gmp": "₹3",
-      "price_band": "₹142",
-      "listing_gain": "2.11%"
-    },
-    {
-      "ipo_name": "Stanbik Agro",
-      "gmp": "₹-",
-      "price_band": "₹30",
-      "listing_gain": "-%"
-    },
-    {
-      "ipo_name": "Exim Routes",
-      "gmp": "₹32",
-      "price_band": "₹88",
-      "listing_gain": "36.36%"
     },
     {
       "ipo_name": "Neptune Logitek",
@@ -64,9 +40,9 @@
     },
     {
       "ipo_name": "Shyam Dhani",
-      "gmp": "₹40",
+      "gmp": "₹42",
       "price_band": "₹70",
-      "listing_gain": "57.14%"
+      "listing_gain": "60%"
     },
     {
       "ipo_name": "Sundrex Oil",
@@ -76,9 +52,9 @@
     },
     {
       "ipo_name": "Dachepalli Publishers",
-      "gmp": "₹-",
+      "gmp": "₹10",
       "price_band": "₹102",
-      "listing_gain": "-%"
+      "listing_gain": "9.80%"
     },
     {
       "ipo_name": "EPW India",
@@ -94,15 +70,15 @@
     },
     {
       "ipo_name": "Apollo Techno Industries",
-      "gmp": "₹-",
+      "gmp": "₹18",
       "price_band": "₹130",
-      "listing_gain": "-%"
+      "listing_gain": "13.85%"
     },
     {
       "ipo_name": "Nanta Tech",
-      "gmp": "₹-",
+      "gmp": "₹14",
       "price_band": "₹220",
-      "listing_gain": "-%"
+      "listing_gain": "6.36%"
     },
     {
       "ipo_name": "Dhara Rail Projects",
@@ -118,9 +94,9 @@
     },
     {
       "ipo_name": "E to E Transportation",
-      "gmp": "₹-",
+      "gmp": "₹63",
       "price_band": "₹174",
-      "listing_gain": "-%"
+      "listing_gain": "36.20%"
     }
   ]
 }
