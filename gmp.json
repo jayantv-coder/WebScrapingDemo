@@ -1,18 +1,18 @@
 {
-  "last_updated": "2025-12-26T02:10:11.984133",
+  "last_updated": "2025-12-27T02:07:51.462044",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
       "ipo_name": "Gujarat Kidney",
-      "gmp": "₹3",
+      "gmp": "₹-",
       "price_band": "₹114",
-      "listing_gain": "2.63%"
+      "listing_gain": "-%"
     },
     {
       "ipo_name": "Shyam Dhani",
-      "gmp": "₹70",
+      "gmp": "₹72",
       "price_band": "₹70",
-      "listing_gain": "100%"
+      "listing_gain": "102.85%"
     },
     {
       "ipo_name": "Sundrex Oil",
@@ -34,9 +34,9 @@
     },
     {
       "ipo_name": "Admach Systems",
-      "gmp": "₹-",
+      "gmp": "₹5",
       "price_band": "₹239",
-      "listing_gain": "-%"
+      "listing_gain": "2.09%"
     },
     {
       "ipo_name": "Apollo Techno Industries",
@@ -52,9 +52,9 @@
     },
     {
       "ipo_name": "Dhara Rail Projects",
-      "gmp": "₹10",
+      "gmp": "₹12",
       "price_band": "₹126",
-      "listing_gain": "7.94%"
+      "listing_gain": "9.52%"
     },
     {
       "ipo_name": "Bai Kakaji Polymers",
