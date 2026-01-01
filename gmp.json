@@ -1,60 +1,30 @@
 {
-  "last_updated": "2025-12-31T02:12:00.338052",
+  "last_updated": "2026-01-01T02:29:23.511272",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
-      "ipo_name": "Gujarat Kidney",
-      "gmp": "₹-",
-      "price_band": "₹114",
-      "listing_gain": "-%"
-    },
-    {
-      "ipo_name": "Shyam Dhani",
-      "gmp": "₹72",
-      "price_band": "₹70",
-      "listing_gain": "102.85%"
-    },
-    {
-      "ipo_name": "Sundrex Oil",
-      "gmp": "₹-",
-      "price_band": "₹86",
-      "listing_gain": "-%"
-    },
-    {
-      "ipo_name": "Dachepalli Publishers",
-      "gmp": "₹-",
-      "price_band": "₹102",
-      "listing_gain": "-%"
-    },
-    {
-      "ipo_name": "EPW India",
-      "gmp": "₹2",
-      "price_band": "₹97",
-      "listing_gain": "2.06%"
-    },
-    {
       "ipo_name": "Admach Systems",
-      "gmp": "₹7",
+      "gmp": "₹11",
       "price_band": "₹239",
-      "listing_gain": "2.93%"
+      "listing_gain": "4.60%"
     },
     {
       "ipo_name": "Apollo Techno Industries",
-      "gmp": "₹7",
+      "gmp": "₹9",
       "price_band": "₹130",
-      "listing_gain": "5.38%"
+      "listing_gain": "6.92%"
     },
     {
       "ipo_name": "Nanta Tech",
-      "gmp": "₹10",
+      "gmp": "₹24",
       "price_band": "₹220",
-      "listing_gain": "4.55%"
+      "listing_gain": "10.90%"
     },
     {
       "ipo_name": "Dhara Rail Projects",
-      "gmp": "₹14",
+      "gmp": "₹15",
       "price_band": "₹126",
-      "listing_gain": "11.11%"
+      "listing_gain": "11.90%"
     },
     {
       "ipo_name": "Bai Kakaji Polymers",
@@ -64,14 +34,20 @@
     },
     {
       "ipo_name": "E to E Transportation",
-      "gmp": "₹143",
+      "gmp": "₹145",
       "price_band": "₹174",
-      "listing_gain": "82.18%"
+      "listing_gain": "83.33%"
     },
     {
       "ipo_name": "Modern Diagnostic",
-      "gmp": "₹-",
+      "gmp": "₹12",
       "price_band": "₹90",
+      "listing_gain": "13.33%"
+    },
+    {
+      "ipo_name": "Gabion Technologies",
+      "gmp": "₹-",
+      "price_band": "₹81",
       "listing_gain": "-%"
     }
   ]
