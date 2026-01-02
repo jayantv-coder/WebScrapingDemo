@@ -1,37 +1,7 @@
 {
-  "last_updated": "2026-01-01T02:29:23.511272",
+  "last_updated": "2026-01-02T02:19:50.280369",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
-    {
-      "ipo_name": "Admach Systems",
-      "gmp": "₹11",
-      "price_band": "₹239",
-      "listing_gain": "4.60%"
-    },
-    {
-      "ipo_name": "Apollo Techno Industries",
-      "gmp": "₹9",
-      "price_band": "₹130",
-      "listing_gain": "6.92%"
-    },
-    {
-      "ipo_name": "Nanta Tech",
-      "gmp": "₹24",
-      "price_band": "₹220",
-      "listing_gain": "10.90%"
-    },
-    {
-      "ipo_name": "Dhara Rail Projects",
-      "gmp": "₹15",
-      "price_band": "₹126",
-      "listing_gain": "11.90%"
-    },
-    {
-      "ipo_name": "Bai Kakaji Polymers",
-      "gmp": "₹3",
-      "price_band": "₹186",
-      "listing_gain": "1.61%"
-    },
     {
       "ipo_name": "E to E Transportation",
       "gmp": "₹145",
@@ -40,14 +10,26 @@
     },
     {
       "ipo_name": "Modern Diagnostic",
-      "gmp": "₹12",
+      "gmp": "₹13",
       "price_band": "₹90",
-      "listing_gain": "13.33%"
+      "listing_gain": "14.44%"
     },
     {
       "ipo_name": "Gabion Technologies",
-      "gmp": "₹-",
+      "gmp": "₹25",
       "price_band": "₹81",
+      "listing_gain": "30.86%"
+    },
+    {
+      "ipo_name": "Yajur Fibres",
+      "gmp": "₹-",
+      "price_band": "₹174",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "Victory Electric Vehicles",
+      "gmp": "₹-",
+      "price_band": "₹41",
       "listing_gain": "-%"
     }
   ]
