@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-01-06T02:19:30.691768",
+  "last_updated": "2026-01-07T02:19:26.460724",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
       "ipo_name": "Bharat Coking Coal (BCCL)",
-      "gmp": "₹16",
+      "gmp": "₹13",
       "price_band": "₹23",
-      "listing_gain": "69.57%"
+      "listing_gain": "56.52%"
     },
     {
       "ipo_name": "Modern Diagnostic",
-      "gmp": "₹16",
+      "gmp": "₹14",
       "price_band": "₹90",
-      "listing_gain": "17.78%"
+      "listing_gain": "15.55%"
     },
     {
       "ipo_name": "Gabion Technologies",
-      "gmp": "₹27",
+      "gmp": "₹30",
       "price_band": "₹81",
-      "listing_gain": "33.33%"
+      "listing_gain": "37.04%"
     },
     {
       "ipo_name": "Yajur Fibres",
@@ -46,9 +46,9 @@
     },
     {
       "ipo_name": "GRE Renew Enertech",
-      "gmp": "₹-",
+      "gmp": "₹9",
       "price_band": "₹105",
-      "listing_gain": "-%"
+      "listing_gain": "8.57%"
     }
   ]
 }
