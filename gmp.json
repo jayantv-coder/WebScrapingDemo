@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-09T02:20:26.467923",
+  "last_updated": "2026-01-10T02:10:19.441932",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
@@ -10,21 +10,21 @@
     },
     {
       "ipo_name": "Amagi Media Labs",
-      "gmp": "₹40",
+      "gmp": "₹43",
       "price_band": "₹361",
-      "listing_gain": "11.08%"
+      "listing_gain": "11.91%"
     },
     {
       "ipo_name": "Gabion Technologies",
-      "gmp": "₹30",
+      "gmp": "₹33",
       "price_band": "₹81",
-      "listing_gain": "37.04%"
+      "listing_gain": "40.74%"
     },
     {
       "ipo_name": "Yajur Fibres",
-      "gmp": "₹5",
+      "gmp": "₹-",
       "price_band": "₹174",
-      "listing_gain": "2.88%"
+      "listing_gain": "-%"
     },
     {
       "ipo_name": "Victory Electric Vehicles",
@@ -34,15 +34,15 @@
     },
     {
       "ipo_name": "Defrail Technologies",
-      "gmp": "₹5",
+      "gmp": "₹6",
       "price_band": "₹74",
-      "listing_gain": "6.76%"
+      "listing_gain": "8.11%"
     },
     {
       "ipo_name": "Avana Electrosystems",
-      "gmp": "₹4.5",
+      "gmp": "₹8",
       "price_band": "₹59",
-      "listing_gain": "7.63%"
+      "listing_gain": "13.56%"
     },
     {
       "ipo_name": "Narmadesh Brass",
@@ -61,6 +61,12 @@
       "gmp": "₹9",
       "price_band": "₹105",
       "listing_gain": "8.57%"
+    },
+    {
+      "ipo_name": "Armour Security",
+      "gmp": "₹-",
+      "price_band": "₹57",
+      "listing_gain": "-%"
     }
   ]
 }
