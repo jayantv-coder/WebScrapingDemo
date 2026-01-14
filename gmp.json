@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-01-13T02:11:35.472202",
+  "last_updated": "2026-01-14T02:25:05.203101",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
       "ipo_name": "Bharat Coking Coal (BCCL)",
-      "gmp": "₹10.7",
+      "gmp": "₹10",
       "price_band": "₹23",
-      "listing_gain": "46.52%"
+      "listing_gain": "43.48%"
     },
     {
       "ipo_name": "Amagi Media Labs",
@@ -16,9 +16,9 @@
     },
     {
       "ipo_name": "Gabion Technologies",
-      "gmp": "₹35",
+      "gmp": "₹31",
       "price_band": "₹81",
-      "listing_gain": "43.21%"
+      "listing_gain": "38.27%"
     },
     {
       "ipo_name": "Yajur Fibres",
@@ -34,15 +34,15 @@
     },
     {
       "ipo_name": "Defrail Technologies",
-      "gmp": "₹16",
+      "gmp": "₹8",
       "price_band": "₹74",
-      "listing_gain": "21.62%"
+      "listing_gain": "10.81%"
     },
     {
       "ipo_name": "Avana Electrosystems",
-      "gmp": "₹5",
+      "gmp": "₹16",
       "price_band": "₹59",
-      "listing_gain": "8.47%"
+      "listing_gain": "27.12%"
     },
     {
       "ipo_name": "Narmadesh Brass",
@@ -52,21 +52,27 @@
     },
     {
       "ipo_name": "INDO SMC",
-      "gmp": "₹35",
+      "gmp": "₹34",
       "price_band": "₹149",
-      "listing_gain": "23.49%"
+      "listing_gain": "22.81%"
     },
     {
       "ipo_name": "GRE Renew Enertech",
-      "gmp": "₹9",
+      "gmp": "₹7",
       "price_band": "₹105",
-      "listing_gain": "8.57%"
+      "listing_gain": "6.67%"
     },
     {
       "ipo_name": "Armour Security",
-      "gmp": "₹1",
+      "gmp": "₹2",
       "price_band": "₹57",
-      "listing_gain": "1.75%"
+      "listing_gain": "3.51%"
+    },
+    {
+      "ipo_name": "Aritas Vinyl",
+      "gmp": "₹-",
+      "price_band": "₹47",
+      "listing_gain": "-%"
     }
   ]
 }
