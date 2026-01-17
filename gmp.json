@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-16T02:21:13.631499",
+  "last_updated": "2026-01-17T02:08:32.750313",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
@@ -10,39 +10,27 @@
     },
     {
       "ipo_name": "Amagi Media Labs",
-      "gmp": "₹20",
+      "gmp": "₹27",
       "price_band": "₹361",
-      "listing_gain": "5.54%"
+      "listing_gain": "7.48%"
     },
     {
       "ipo_name": "Shadowfax",
-      "gmp": "₹-",
+      "gmp": "₹16",
       "price_band": "₹124",
-      "listing_gain": "-%"
-    },
-    {
-      "ipo_name": "Yajur Fibres",
-      "gmp": "₹-",
-      "price_band": "₹174",
-      "listing_gain": "-%"
-    },
-    {
-      "ipo_name": "Victory Electric Vehicles",
-      "gmp": "₹-",
-      "price_band": "₹41",
-      "listing_gain": "-%"
+      "listing_gain": "12.90%"
     },
     {
       "ipo_name": "Defrail Technologies",
-      "gmp": "₹8",
+      "gmp": "₹10",
       "price_band": "₹74",
-      "listing_gain": "10.81%"
+      "listing_gain": "13.51%"
     },
     {
       "ipo_name": "Avana Electrosystems",
-      "gmp": "₹16",
+      "gmp": "₹13",
       "price_band": "₹59",
-      "listing_gain": "27.12%"
+      "listing_gain": "22.03%"
     },
     {
       "ipo_name": "Narmadesh Brass",
@@ -70,9 +58,21 @@
     },
     {
       "ipo_name": "Aritas Vinyl",
-      "gmp": "₹-",
+      "gmp": "₹8",
       "price_band": "₹47",
-      "listing_gain": "-%"
+      "listing_gain": "17.02%"
+    },
+    {
+      "ipo_name": "KRM Ayurveda",
+      "gmp": "₹15",
+      "price_band": "₹135",
+      "listing_gain": "11.11%"
+    },
+    {
+      "ipo_name": "Digilogic Systems",
+      "gmp": "₹5",
+      "price_band": "₹104",
+      "listing_gain": "4.81%"
     }
   ]
 }
