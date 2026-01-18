@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-17T02:08:32.750313",
+  "last_updated": "2026-01-18T02:29:04.620395",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
@@ -58,21 +58,27 @@
     },
     {
       "ipo_name": "Aritas Vinyl",
-      "gmp": "₹8",
+      "gmp": "₹10",
       "price_band": "₹47",
-      "listing_gain": "17.02%"
-    },
-    {
-      "ipo_name": "KRM Ayurveda",
-      "gmp": "₹15",
-      "price_band": "₹135",
-      "listing_gain": "11.11%"
+      "listing_gain": "21.28%"
     },
     {
       "ipo_name": "Digilogic Systems",
       "gmp": "₹5",
       "price_band": "₹104",
       "listing_gain": "4.81%"
+    },
+    {
+      "ipo_name": "KRM Ayurveda",
+      "gmp": "₹18",
+      "price_band": "₹135",
+      "listing_gain": "13.33%"
+    },
+    {
+      "ipo_name": "Shayona Engineering",
+      "gmp": "₹0",
+      "price_band": "₹-",
+      "listing_gain": "-%"
     }
   ]
 }
