@@ -1,36 +1,36 @@
 {
-  "last_updated": "2026-01-19T02:26:23.840786",
+  "last_updated": "2026-01-20T02:21:27.826345",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
       "ipo_name": "Bharat Coking Coal (BCCL)",
-      "gmp": "₹13.3",
+      "gmp": "₹17.5",
       "price_band": "₹23",
-      "listing_gain": "57.82%"
+      "listing_gain": "76.08%"
     },
     {
       "ipo_name": "Amagi Media Labs",
-      "gmp": "₹27",
+      "gmp": "₹21",
       "price_band": "₹361",
-      "listing_gain": "7.48%"
+      "listing_gain": "5.81%"
     },
     {
       "ipo_name": "Shadowfax",
-      "gmp": "₹16",
+      "gmp": "₹11",
       "price_band": "₹124",
-      "listing_gain": "12.90%"
+      "listing_gain": "8.87%"
     },
     {
       "ipo_name": "Defrail Technologies",
-      "gmp": "₹10",
+      "gmp": "₹17",
       "price_band": "₹74",
-      "listing_gain": "13.51%"
+      "listing_gain": "22.97%"
     },
     {
       "ipo_name": "Avana Electrosystems",
-      "gmp": "₹13",
+      "gmp": "₹12",
       "price_band": "₹59",
-      "listing_gain": "22.03%"
+      "listing_gain": "20.34%"
     },
     {
       "ipo_name": "Narmadesh Brass",
@@ -40,27 +40,27 @@
     },
     {
       "ipo_name": "INDO SMC",
-      "gmp": "₹32",
+      "gmp": "₹25",
       "price_band": "₹149",
-      "listing_gain": "21.48%"
+      "listing_gain": "16.78%"
     },
     {
       "ipo_name": "GRE Renew Enertech",
-      "gmp": "₹7",
+      "gmp": "₹6",
       "price_band": "₹105",
-      "listing_gain": "6.67%"
+      "listing_gain": "5.71%"
     },
     {
       "ipo_name": "Armour Security",
-      "gmp": "₹4",
+      "gmp": "₹0",
       "price_band": "₹57",
-      "listing_gain": "7.02%"
+      "listing_gain": "-%"
     },
     {
       "ipo_name": "Aritas Vinyl",
-      "gmp": "₹10",
+      "gmp": "₹1",
       "price_band": "₹47",
-      "listing_gain": "21.28%"
+      "listing_gain": "2.13%"
     },
     {
       "ipo_name": "Digilogic Systems",
@@ -70,14 +70,20 @@
     },
     {
       "ipo_name": "KRM Ayurveda",
-      "gmp": "₹18",
+      "gmp": "₹20",
       "price_band": "₹135",
-      "listing_gain": "13.33%"
+      "listing_gain": "14.81%"
     },
     {
       "ipo_name": "Shayona Engineering",
       "gmp": "₹0",
-      "price_band": "₹-",
+      "price_band": "₹144",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "Hannah Joseph Hospital",
+      "gmp": "₹0",
+      "price_band": "₹70",
       "listing_gain": "-%"
     }
   ]
