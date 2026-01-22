@@ -1,42 +1,36 @@
 {
-  "last_updated": "2026-01-21T02:24:19.770717",
+  "last_updated": "2026-01-22T02:25:36.187284",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
       "ipo_name": "Amagi Media Labs",
-      "gmp": "₹6",
+      "gmp": "₹-1",
       "price_band": "₹361",
-      "listing_gain": "1.66%"
+      "listing_gain": "-0.28%"
     },
     {
       "ipo_name": "Shadowfax",
-      "gmp": "₹4",
+      "gmp": "₹1",
       "price_band": "₹124",
-      "listing_gain": "3.23%"
-    },
-    {
-      "ipo_name": "Avana Electrosystems",
-      "gmp": "₹11",
-      "price_band": "₹59",
-      "listing_gain": "18.64%"
+      "listing_gain": "0.81%"
     },
     {
       "ipo_name": "Narmadesh Brass",
-      "gmp": "₹-",
+      "gmp": "₹0",
       "price_band": "₹515",
       "listing_gain": "-%"
     },
     {
       "ipo_name": "INDO SMC",
-      "gmp": "₹15",
+      "gmp": "₹10",
       "price_band": "₹149",
-      "listing_gain": "10.06%"
+      "listing_gain": "6.71%"
     },
     {
       "ipo_name": "GRE Renew Enertech",
-      "gmp": "₹6",
+      "gmp": "₹1",
       "price_band": "₹105",
-      "listing_gain": "5.71%"
+      "listing_gain": "0.95%"
     },
     {
       "ipo_name": "Armour Security",
@@ -58,9 +52,9 @@
     },
     {
       "ipo_name": "KRM Ayurveda",
-      "gmp": "₹21",
+      "gmp": "₹12",
       "price_band": "₹135",
-      "listing_gain": "15.56%"
+      "listing_gain": "8.89%"
     },
     {
       "ipo_name": "Shayona Engineering",
