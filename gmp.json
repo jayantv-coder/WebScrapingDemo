@@ -1,17 +1,11 @@
 {
-  "last_updated": "2026-01-23T02:21:31.139721",
+  "last_updated": "2026-01-24T02:11:03.808206",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
       "ipo_name": "Shadowfax",
-      "gmp": "₹1.5",
-      "price_band": "₹124",
-      "listing_gain": "1.21%"
-    },
-    {
-      "ipo_name": "Armour Security",
       "gmp": "₹0",
-      "price_band": "₹57",
+      "price_band": "₹124",
       "listing_gain": "-%"
     },
     {
@@ -28,9 +22,9 @@
     },
     {
       "ipo_name": "KRM Ayurveda",
-      "gmp": "₹12",
+      "gmp": "₹16",
       "price_band": "₹135",
-      "listing_gain": "8.89%"
+      "listing_gain": "11.85%"
     },
     {
       "ipo_name": "Shayona Engineering",
@@ -72,6 +66,12 @@
       "ipo_name": "Kanishk Aluminium",
       "gmp": "₹0",
       "price_band": "₹73",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "CKK Retail Mart",
+      "gmp": "₹0",
+      "price_band": "₹163",
       "listing_gain": "-%"
     }
   ]
