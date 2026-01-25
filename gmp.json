@@ -1,17 +1,11 @@
 {
-  "last_updated": "2026-01-24T02:11:03.808206",
+  "last_updated": "2026-01-25T02:32:56.074500",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
       "ipo_name": "Shadowfax",
       "gmp": "₹0",
       "price_band": "₹124",
-      "listing_gain": "-%"
-    },
-    {
-      "ipo_name": "Aritas Vinyl",
-      "gmp": "₹0",
-      "price_band": "₹47",
       "listing_gain": "-%"
     },
     {
@@ -34,20 +28,14 @@
     },
     {
       "ipo_name": "Hannah Joseph Hospital",
-      "gmp": "₹0",
+      "gmp": "₹2",
       "price_band": "₹70",
-      "listing_gain": "-%"
+      "listing_gain": "2.85%"
     },
     {
       "ipo_name": "Kasturi Metal Composite",
       "gmp": "₹0",
       "price_band": "₹64",
-      "listing_gain": "-%"
-    },
-    {
-      "ipo_name": "NFP Sampoorna Foods",
-      "gmp": "₹0",
-      "price_band": "₹55",
       "listing_gain": "-%"
     },
     {
@@ -58,9 +46,9 @@
     },
     {
       "ipo_name": "Msafe Equipments",
-      "gmp": "₹7",
+      "gmp": "₹11",
       "price_band": "₹123",
-      "listing_gain": "5.69%"
+      "listing_gain": "8.94%"
     },
     {
       "ipo_name": "Kanishk Aluminium",
@@ -72,6 +60,18 @@
       "ipo_name": "CKK Retail Mart",
       "gmp": "₹0",
       "price_band": "₹163",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "NFP Sampoorna Foods",
+      "gmp": "₹0",
+      "price_band": "₹55",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "Biopol Chemicals",
+      "gmp": "₹0",
+      "price_band": "₹108",
       "listing_gain": "-%"
     }
   ]
