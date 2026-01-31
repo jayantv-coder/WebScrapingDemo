@@ -1,18 +1,12 @@
 {
-  "last_updated": "2026-01-30T02:41:17.964157",
+  "last_updated": "2026-01-31T02:36:26.806439",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
-      "ipo_name": "KRM Ayurveda",
-      "gmp": "₹23",
-      "price_band": "₹135",
-      "listing_gain": "17.03%"
-    },
-    {
       "ipo_name": "Shayona Engineering",
-      "gmp": "₹0",
+      "gmp": "₹4",
       "price_band": "₹144",
-      "listing_gain": "-%"
+      "listing_gain": "2.78%"
     },
     {
       "ipo_name": "Hannah Joseph Hospital",
@@ -34,15 +28,15 @@
     },
     {
       "ipo_name": "Msafe Equipments",
-      "gmp": "₹23",
+      "gmp": "₹26",
       "price_band": "₹123",
-      "listing_gain": "18.70%"
+      "listing_gain": "21.14%"
     },
     {
       "ipo_name": "Kanishk Aluminium",
-      "gmp": "₹0",
+      "gmp": "₹4",
       "price_band": "₹73",
-      "listing_gain": "-%"
+      "listing_gain": "5.47%"
     },
     {
       "ipo_name": "CKK Retail Mart",
@@ -54,6 +48,12 @@
       "ipo_name": "NFP Sampoorna Foods",
       "gmp": "₹0",
       "price_band": "₹55",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "Grover Jewells",
+      "gmp": "₹0",
+      "price_band": "₹88",
       "listing_gain": "-%"
     },
     {
