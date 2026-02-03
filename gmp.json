@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-02T02:51:14.917538",
+  "last_updated": "2026-02-03T02:47:35.918093",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
@@ -48,6 +48,12 @@
       "ipo_name": "Grover Jewells",
       "gmp": "₹0",
       "price_band": "₹88",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "Brandman Retail",
+      "gmp": "₹0",
+      "price_band": "₹176",
       "listing_gain": "-%"
     },
     {
