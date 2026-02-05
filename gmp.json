@@ -1,30 +1,30 @@
 {
-  "last_updated": "2026-02-04T02:42:07.502937",
+  "last_updated": "2026-02-05T02:44:23.008520",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
       "ipo_name": "Fractal Analytics",
-      "gmp": "₹0",
-      "price_band": "₹-",
-      "listing_gain": "-%"
+      "gmp": "₹165",
+      "price_band": "₹900",
+      "listing_gain": "18.33%"
     },
     {
-      "ipo_name": "Kasturi Metal Composite",
-      "gmp": "₹0",
-      "price_band": "₹64",
-      "listing_gain": "-%"
+      "ipo_name": "Aye Finance",
+      "gmp": "₹7",
+      "price_band": "₹129",
+      "listing_gain": "5.43%"
     },
     {
       "ipo_name": "Accretion Nutraveda",
-      "gmp": "₹16",
+      "gmp": "₹70",
       "price_band": "₹129",
-      "listing_gain": "12.40%"
+      "listing_gain": "54.26%"
     },
     {
       "ipo_name": "Msafe Equipments",
-      "gmp": "₹20",
+      "gmp": "₹21",
       "price_band": "₹123",
-      "listing_gain": "16.26%"
+      "listing_gain": "17.07%"
     },
     {
       "ipo_name": "Kanishk Aluminium",
@@ -46,9 +46,9 @@
     },
     {
       "ipo_name": "Brandman Retail",
-      "gmp": "₹0",
+      "gmp": "₹14",
       "price_band": "₹176",
-      "listing_gain": "-%"
+      "listing_gain": "7.95%"
     },
     {
       "ipo_name": "Biopol Chemicals",
@@ -60,6 +60,12 @@
       "ipo_name": "PAN HR Solutions",
       "gmp": "₹0",
       "price_band": "₹78",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "Marushika Technology",
+      "gmp": "₹0",
+      "price_band": "₹117",
       "listing_gain": "-%"
     }
   ]
