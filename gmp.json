@@ -1,24 +1,18 @@
 {
-  "last_updated": "2026-02-07T02:40:03.202824",
+  "last_updated": "2026-02-08T03:23:54.026859",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
       "ipo_name": "Fractal Analytics",
-      "gmp": "₹99",
+      "gmp": "₹42",
       "price_band": "₹900",
-      "listing_gain": "11.00%"
+      "listing_gain": "4.66%"
     },
     {
       "ipo_name": "Aye Finance",
       "gmp": "₹1",
       "price_band": "₹129",
       "listing_gain": "0.78%"
-    },
-    {
-      "ipo_name": "CKK Retail Mart",
-      "gmp": "₹0",
-      "price_band": "₹163",
-      "listing_gain": "-%"
     },
     {
       "ipo_name": "Grover Jewells",
@@ -28,9 +22,9 @@
     },
     {
       "ipo_name": "Brandman Retail",
-      "gmp": "₹28",
+      "gmp": "₹23",
       "price_band": "₹176",
-      "listing_gain": "15.91%"
+      "listing_gain": "13.06%"
     },
     {
       "ipo_name": "Biopol Chemicals",
