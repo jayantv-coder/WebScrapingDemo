@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-02-10T03:16:43.334238",
+  "last_updated": "2026-02-11T03:14:42.104833",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
       "ipo_name": "Fractal Analytics",
-      "gmp": "₹8",
+      "gmp": "₹7",
       "price_band": "₹900",
-      "listing_gain": "0.89%"
+      "listing_gain": "0.78%"
     },
     {
       "ipo_name": "Aye Finance",
@@ -22,15 +22,15 @@
     },
     {
       "ipo_name": "Brandman Retail",
-      "gmp": "₹15",
+      "gmp": "₹17",
       "price_band": "₹176",
-      "listing_gain": "8.52%"
+      "listing_gain": "9.66%"
     },
     {
       "ipo_name": "Biopol Chemicals",
-      "gmp": "₹0",
+      "gmp": "₹4",
       "price_band": "₹108",
-      "listing_gain": "-%"
+      "listing_gain": "3.70%"
     },
     {
       "ipo_name": "PAN HR Solutions",
@@ -42,6 +42,12 @@
       "ipo_name": "Marushika Technology",
       "gmp": "₹0",
       "price_band": "₹117",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "Fractal Industries",
+      "gmp": "₹0",
+      "price_band": "₹216",
       "listing_gain": "-%"
     }
   ]
