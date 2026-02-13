@@ -1,23 +1,17 @@
 {
-  "last_updated": "2026-02-12T02:54:19.057397",
+  "last_updated": "2026-02-13T02:54:19.936762",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
       "ipo_name": "Fractal Analytics",
-      "gmp": "₹2",
+      "gmp": "₹0",
       "price_band": "₹900",
-      "listing_gain": "0.22%"
+      "listing_gain": "-%"
     },
     {
       "ipo_name": "Aye Finance",
-      "gmp": "₹0.35",
+      "gmp": "₹0",
       "price_band": "₹129",
-      "listing_gain": "0.27%"
-    },
-    {
-      "ipo_name": "PNGS Reva Diamond",
-      "gmp": "₹20",
-      "price_band": "₹-",
       "listing_gain": "-%"
     },
     {
@@ -25,6 +19,12 @@
       "gmp": "₹0",
       "price_band": "₹-",
       "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "PNGS Reva Diamond",
+      "gmp": "₹20",
+      "price_band": "₹386",
+      "listing_gain": "5.18%"
     },
     {
       "ipo_name": "Biopol Chemicals",
