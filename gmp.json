@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-02-13T02:54:19.936762",
+  "last_updated": "2026-02-14T02:42:03.655440",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
+    {
+      "ipo_name": "PNGS Reva Diamond",
+      "gmp": "₹20",
+      "price_band": "₹386",
+      "listing_gain": "5.18%"
+    },
+    {
+      "ipo_name": "Shree Ram Twistex",
+      "gmp": "₹0",
+      "price_band": "₹-",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "Clean Max Enviro",
+      "gmp": "₹0",
+      "price_band": "₹-",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "Gaudium IVF",
+      "gmp": "₹0",
+      "price_band": "₹-",
+      "listing_gain": "-%"
+    },
+    {
+      "ipo_name": "Fractal Industries",
+      "gmp": "₹6",
+      "price_band": "₹216",
+      "listing_gain": "2.78%"
+    },
     {
       "ipo_name": "Fractal Analytics",
       "gmp": "₹0",
@@ -15,40 +45,10 @@
       "listing_gain": "-%"
     },
     {
-      "ipo_name": "Clean Max Enviro",
-      "gmp": "₹0",
-      "price_band": "₹-",
-      "listing_gain": "-%"
-    },
-    {
-      "ipo_name": "PNGS Reva Diamond",
-      "gmp": "₹20",
-      "price_band": "₹386",
-      "listing_gain": "5.18%"
-    },
-    {
-      "ipo_name": "Biopol Chemicals",
-      "gmp": "₹4",
-      "price_band": "₹108",
-      "listing_gain": "3.70%"
-    },
-    {
-      "ipo_name": "PAN HR Solutions",
-      "gmp": "₹0",
-      "price_band": "₹78",
-      "listing_gain": "-%"
-    },
-    {
       "ipo_name": "Marushika Technology",
       "gmp": "₹0",
       "price_band": "₹117",
       "listing_gain": "-%"
-    },
-    {
-      "ipo_name": "Fractal Industries",
-      "gmp": "₹5",
-      "price_band": "₹216",
-      "listing_gain": "2.31%"
     }
   ]
 }
