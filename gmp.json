@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14T02:42:03.655440",
+  "last_updated": "2026-02-15T02:55:30.223543",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
@@ -27,12 +27,6 @@
       "listing_gain": "-%"
     },
     {
-      "ipo_name": "Fractal Industries",
-      "gmp": "₹6",
-      "price_band": "₹216",
-      "listing_gain": "2.78%"
-    },
-    {
       "ipo_name": "Fractal Analytics",
       "gmp": "₹0",
       "price_band": "₹900",
@@ -42,12 +36,6 @@
       "ipo_name": "Aye Finance",
       "gmp": "₹0",
       "price_band": "₹129",
-      "listing_gain": "-%"
-    },
-    {
-      "ipo_name": "Marushika Technology",
-      "gmp": "₹0",
-      "price_band": "₹117",
       "listing_gain": "-%"
     }
   ]
