@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-17T02:47:25.345214",
+  "last_updated": "2026-02-18T02:50:34.062147",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
@@ -10,21 +10,21 @@
     },
     {
       "ipo_name": "Shree Ram Twistex",
-      "gmp": "₹0",
+      "gmp": "₹5",
       "price_band": "₹104",
-      "listing_gain": "-%"
+      "listing_gain": "4.81%"
     },
     {
       "ipo_name": "Clean Max Enviro",
-      "gmp": "₹0",
+      "gmp": "₹19",
       "price_band": "₹1053",
-      "listing_gain": "-%"
+      "listing_gain": "1.80%"
     },
     {
       "ipo_name": "Gaudium IVF",
-      "gmp": "₹0",
+      "gmp": "₹10",
       "price_band": "₹79",
-      "listing_gain": "-%"
+      "listing_gain": "12.66%"
     }
   ]
 }
