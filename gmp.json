@@ -1,12 +1,18 @@
 {
-  "last_updated": "2026-02-19T02:49:27.700661",
+  "last_updated": "2026-02-20T02:44:12.739598",
   "source": "https://ipowatch.in/ipo-grey-market-premium-latest/",
   "data": [
     {
+      "ipo_name": "Omnitech Engineering",
+      "gmp": "₹13",
+      "price_band": "₹227",
+      "listing_gain": "5.72%"
+    },
+    {
       "ipo_name": "PNGS Reva Diamond",
-      "gmp": "₹21",
+      "gmp": "₹18",
       "price_band": "₹386",
-      "listing_gain": "5.44%"
+      "listing_gain": "4.66%"
     },
     {
       "ipo_name": "Shree Ram Twistex",
@@ -16,15 +22,15 @@
     },
     {
       "ipo_name": "Clean Max Enviro",
-      "gmp": "₹9",
+      "gmp": "₹5",
       "price_band": "₹1053",
-      "listing_gain": "0.85%"
+      "listing_gain": "0.47%"
     },
     {
       "ipo_name": "Gaudium IVF",
-      "gmp": "₹12",
+      "gmp": "₹8.5",
       "price_band": "₹79",
-      "listing_gain": "15.19%"
+      "listing_gain": "10.76%"
     }
   ]
 }
